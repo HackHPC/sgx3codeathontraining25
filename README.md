@@ -14,5 +14,6 @@ The first virtual training will be on Wednesday, January 15th, 2025 at 6:00 pm E
 * [2025 Anvil Research Experiences for Undergraduates (REU)](https://www.rcac.purdue.edu/anvil/reu)
 * [GitHub](https://github.com)
   
-
+# Session Resources
+## Session 1: Kick-off [Slide Deck](slides/Kick-Off_Session-01152025.pdf)
 
