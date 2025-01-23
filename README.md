@@ -17,4 +17,7 @@ The first virtual training will be on Wednesday, January 15th, 2025 at 6:00 pm E
 # Session Resources
 ## Session 1: Kick-off 
 * [Slide Deck](slides/Kick-Off_Session-01152025.pdf)
+## Session 2: 1-22-25
+* [Slide Deck](slides/1-22-25_Session.pdf)
+* [Project Brainstorm](objects/Project_Brainstorm.pdf)
 
