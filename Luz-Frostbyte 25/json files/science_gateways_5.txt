@@ -1,0 +1,1124 @@
+
+    {
+        "name": "Plant Biosecurity",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9842",
+        "abstract": "Plant Biosecurity is a set of measures designed to protect a crop, crops or a sub-group of crops from emergency plant pests at national, regional and individual farm levels.",
+        "published_on": "N/A",
+        "site_url": "http://www.pbcrc.com.au/",
+        "cite": "(2024), \"Plant Biosecurity,\" https://sciencegateways.org/resources/plantbiosecurity.",
+        "tags": [
+            "biosecurity",
+            "leaflet",
+            "plant"
+        ]
+    },
+    {
+        "name": "Crowdmap",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9843",
+        "abstract": "Crowdmap is a tool that allows you to crowdsource information and see it on a map and timeline. It is the Ushahidi platform, built by the team who created Ushahidi as a way for anyone to run their own crowdsourcing site without having to know the intricacies of...",
+        "published_on": "N/A",
+        "site_url": "https://crowdmap.com/welcome",
+        "cite": "(2024), \"Crowdmap,\" https://sciencegateways.org/resources/crowdmap.",
+        "tags": [
+            "crowdmap",
+            "crowdsource",
+            "open source"
+        ]
+    },
+    {
+        "name": "High Energy Physics (HEP)",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9844",
+        "abstract": "The High Energy Physics (HEP) Research Computing Group is actively engaged in a variety of projects for the analysis of data from particle physics experiments as well as providing advice to researchers in other fields. Computing Grid Our areas of expertise include...",
+        "published_on": "N/A",
+        "site_url": "http://heprc.phys.uvic.ca/",
+        "cite": "(2024), \"High Energy Physics (HEP),\" https://sciencegateways.org/resources/highenergyphysicshep.",
+        "tags": [
+            "HEP",
+            "high energy",
+            "particle"
+        ]
+    },
+    {
+        "name": "earthscope",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9845",
+        "abstract": "EarthScope is a program of the National Science Foundation (NSF) that has deployed thousands of seismic, GPS, and other geophysical instruments to study the structure and evolution of the North American continent and the processes that cause earthquakes and volcanic...",
+        "published_on": "N/A",
+        "site_url": "http://www.earthscope.org/",
+        "cite": "(2024), \"earthscope,\" https://sciencegateways.org/resources/earthscope.",
+        "tags": [
+            "earth",
+            "earthscope",
+            "North American Continent"
+        ]
+    },
+    {
+        "name": "ENVRI",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9846",
+        "abstract": "ENVRI is the community of the Environmental research infrastructures, projects and networks as well as other diverse stakeholders interested in the environmental research infrastructure matters.",
+        "published_on": "N/A",
+        "site_url": "http://envri.eu/",
+        "cite": "(2024), \"ENVRI,\" https://sciencegateways.org/resources/envri.",
+        "tags": [
+            "environmental research",
+            "ENVRI",
+            "infrastructure"
+        ]
+    },
+    {
+        "name": "FishBase: A Global Information System on Fishes",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9847",
+        "abstract": "FishBase is a global biodiversity information system on finfishes. Its initial goal to provide key facts on population dynamics for 200 major commercial species has now grown to having a wide range of information on all species currently known in the world: taxonomy,...",
+        "published_on": "N/A",
+        "site_url": "http://www.fishbase.org/home.htm",
+        "cite": "(2024), \"FishBase: A Global Information System on Fishes,\" https://sciencegateways.org/resources/fishbaseaglobalinformationsystemonfishes.",
+        "tags": [
+            "biodiversity",
+            "fish",
+            "FishBase"
+        ]
+    },
+    {
+        "name": "Spatial Portal for Analysis of Climatic Effects on Species (SPACES)",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9848",
+        "abstract": "The Spatial Portal for Analysis of Climatic Effects on Species (SPACES) allows anyone to design and run niche modeling experiments on any species with occurrence data in the well-known GBIF database. You select the species, climate layers and algorithms to run and we...",
+        "published_on": "N/A",
+        "site_url": "https://spaces.crc.nd.edu/account/login/",
+        "cite": "(2024), \"Spatial Portal for Analysis of Climatic Effects on Species (SPACES),\" https://sciencegateways.org/resources/spatialportalforanalysisofclimaticeffectsonspeciesspaces.",
+        "tags": [
+            "climate",
+            "SPACES",
+            "species"
+        ]
+    },
+    {
+        "name": "SERC",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9849",
+        "abstract": "The Science Education Resource Center (SERC) is a grant-funded office at Carleton College, founded to improve education in the Earth sciences and beyond.",
+        "published_on": "N/A",
+        "site_url": "https://serc.carleton.edu/index.html",
+        "cite": "(2024), \"SERC,\" https://sciencegateways.org/resources/serc.",
+        "tags": [
+            "earth",
+            "Education",
+            "teaching"
+        ]
+    },
+    {
+        "name": "VecNet: Vector-Borne Disease Network",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9850",
+        "abstract": "VecNet provides a simplified interface to model the impacts of interventions on malaria transmission for control and eradication.",
+        "published_on": "N/A",
+        "site_url": "https://www.vecnet.org/",
+        "cite": "(2024), \"VecNet: Vector-Borne Disease Network,\" https://sciencegateways.org/resources/vecnetvector-bornediseasenetwork.",
+        "tags": [
+            "disease",
+            "malaria",
+            "VecNet"
+        ]
+    },
+    {
+        "name": "University of Utah Gateway",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9851",
+        "abstract": "The Center For High Performance Computing (CHPC) at University of Utah manages all supercomputing requirements of the university as well as its research collaborators. In addition to deploying and operating high-performance computational resources and providing...",
+        "published_on": "N/A",
+        "site_url": "https://cybergateway.chpc.utah.edu/",
+        "cite": "(2024), \"University of Utah Gateway,\" https://sciencegateways.org/resources/universityofutahgateway.",
+        "tags": [
+            "Airavata",
+            "Amber",
+            "CHPC",
+            "Classroom",
+            "Ember",
+            "Gaussian",
+            "Kingspeak",
+            "NAMD"
+        ]
+    },
+    {
+        "name": "RCSB PDB",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9852",
+        "abstract": "This resource is powered by the Protein Data Bank archive-information about the 3D shapes of proteins, nucleic acids, and complex assemblies that helps students and researchers understand all aspects of biomedicine and agriculture, from protein synthesis to health...",
+        "published_on": "N/A",
+        "site_url": "https://www.rcsb.org/",
+        "cite": "(2024), \"RCSB PDB,\" https://sciencegateways.org/resources/rcsbpdb.",
+        "tags": [
+            "PDB",
+            "protein",
+            "RCSB"
+        ]
+    },
+    {
+        "name": "LAMMPS",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9853",
+        "abstract": "LAMMPS is a classical molecular dynamics code, and an acronym for Large-scale Atomic/Molecular Massively Parallel Simulator. LAMMPS has potentials for solid-state materials (metals, semiconductors) and soft matter (biomolecules, polymers) and coarse-grained or...",
+        "published_on": "N/A",
+        "site_url": "http://lammps.sandia.gov/",
+        "cite": "(2024), \"LAMMPS,\" https://sciencegateways.org/resources/lammps.",
+        "tags": [
+            "LAMMPS",
+            "materials",
+            "Molecular"
+        ]
+    },
+    {
+        "name": "Physical Oceanography Distributed Active Archive Center (PO.DAAC)",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9854",
+        "abstract": "The mission of the PO.DAAC is to preserve NASA’s ocean and climate data and make these universally accessible and meaningful.",
+        "published_on": "N/A",
+        "site_url": "https://podaac.jpl.nasa.gov/",
+        "cite": "(2024), \"Physical Oceanography Distributed Active Archive Center (PO.DAAC),\" https://sciencegateways.org/resources/physicaloceanographydistributedactivearchivecenterpodaac.",
+        "tags": [
+            "climate",
+            "ocean",
+            "podaac"
+        ]
+    },
+    {
+        "name": "Humanities Networked Infrastructure (HuNI)",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9855",
+        "abstract": "HuNI combines data from many Australian cultural websites into the biggest humanities and creative arts database ever assembled in Australia. HuNI data covers all disciplines and brings together information about the people, works, events, organisations and places...",
+        "published_on": "N/A",
+        "site_url": "https://huni.net.au/#/search",
+        "cite": "(2024), \"Humanities Networked Infrastructure (HuNI),\" https://sciencegateways.org/resources/humanitiesnetworkedinfrastructurehuni.",
+        "tags": [
+            "humanities",
+            "nectar"
+        ]
+    },
+    {
+        "name": "Garki Project",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9856",
+        "abstract": "The Garki Project was a study carried out in the Garki District of northern Nigeria in 1969-76 by a joint WHO and Nigerian Government research team. With a focus on the epidemiology and control of malaria in the African savanna, the Project was the most comprehensive...",
+        "published_on": "N/A",
+        "site_url": "http://garkiproject.nd.edu/",
+        "cite": "(2024), \"Garki Project,\" https://sciencegateways.org/resources/garkiproject.",
+        "tags": [
+            "epidemiology",
+            "Garki",
+            "malaria"
+        ]
+    },
+    {
+        "name": "International Virtual Observatory Alliance (IVOA)",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9857",
+        "abstract": "The International Virtual Observatory Alliance (IVOA) was formed in June 2002 with a mission to facilitate the international coordination and collaboration necessary for the development and deployment of the tools, systems and organizational structures necessary to...",
+        "published_on": "N/A",
+        "site_url": "http://ivoa.net/",
+        "cite": "(2024), \"International Virtual Observatory Alliance (IVOA),\" https://sciencegateways.org/resources/internationalvirtualobservatoryallianceivoa.",
+        "tags": [
+            "astronomical datasets",
+            "IVOA",
+            "observatory",
+            "VO"
+        ]
+    },
+    {
+        "name": "CottonGen",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9858",
+        "abstract": "CottonGen is a new cotton community genomics, genetics and breeding database being developed to enable basic, translational and applied research in cotton. It is being built using the open-source Tripal database infrastructure.",
+        "published_on": "N/A",
+        "site_url": "https://www.cottongen.org/",
+        "cite": "(2024), \"CottonGen,\" https://sciencegateways.org/resources/cottongen.",
+        "tags": [
+            "cotton",
+            "CottonGen",
+            "genome"
+        ]
+    },
+    {
+        "name": "FAIRsharing",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9859",
+        "abstract": "An information and educational resource of inter-related data standards, databases and policies.",
+        "published_on": "N/A",
+        "site_url": "https://fairsharing.org/",
+        "cite": "(2024), \"FAIRsharing,\" https://sciencegateways.org/resources/fairsharing.",
+        "tags": []
+    },
+    {
+        "name": "PHARMACOLOGY",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9860",
+        "abstract": "One of the main aims is to provide a searchable database with quantitative information on drug targets and the prescription medicines and experimental drugs that act on them. The information in the database is presented at two levels: the initial view or landing...",
+        "published_on": "N/A",
+        "site_url": "http://www.guidetopharmacology.org",
+        "cite": "(2024), \"PHARMACOLOGY,\" https://sciencegateways.org/resources/pharmacology.",
+        "tags": [
+            "database",
+            "ligands",
+            "PHARMACOLOGY",
+            "Software"
+        ]
+    },
+    {
+        "name": "BioSamples",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9861",
+        "abstract": "BioSamples stores and supplies descriptions and metadata about biological samples used in research and development by academia and industry. Samples are either 'reference' samples (e.g. from 1000 Genomes, HipSci, FAANG) or have been used in an assay database such as ...",
+        "published_on": "N/A",
+        "site_url": "https://www.ebi.ac.uk/biosamples/",
+        "cite": "(2024), \"BioSamples,\" https://sciencegateways.org/resources/biosamples.",
+        "tags": []
+    },
+    {
+        "name": "WillItFit",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9862",
+        "abstract": "WillItFit is a framework for fitting of constrained models to small-angle scattering data. On the basis of molecular constraints and prior knowledge of the chemical composition of the sample, the software is capable of simultaneously fitting small-angle X-ray and...",
+        "published_on": "N/A",
+        "site_url": "https://somo.chem.utk.edu/willitfit/",
+        "cite": "(2024), \"WillItFit,\" https://sciencegateways.org/resources/willitfit.",
+        "tags": []
+    },
+    {
+        "name": "MOLEonline",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9863",
+        "abstract": "The web interface provides direct access to MOLE functionality and enables online and easy-to-use interactive channel analysis. MOLE 2.5 is a universal toolkit for rapid and fully automated location and characterization of channels, tunnels and pores in...",
+        "published_on": "N/A",
+        "site_url": "https://mole.upol.cz/",
+        "cite": "(2024), \"MOLEonline,\" https://sciencegateways.org/resources/moleonline.",
+        "tags": []
+    },
+    {
+        "name": "DNATCO v3.0",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9864",
+        "abstract": "It assigns 84 DNA/RNA conformers based on values of their 12 backbone torsion parameters.",
+        "published_on": "N/A",
+        "site_url": "https://www.dnatco.org/",
+        "cite": "(2024), \"DNATCO v3.0,\" https://sciencegateways.org/resources/dnatcov30.",
+        "tags": []
+    },
+    {
+        "name": "UniCarb-DB",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9865",
+        "abstract": "Carbohydrates are the most common but less known biological material on earth. This deficit can partly be explained by the lack of glycodatabases and glycobioinformatics. UniCarb-DB is an example of what can be achieved with a lot of dedication, cross-disciplinary...",
+        "published_on": "N/A",
+        "site_url": "https://unicarb-db.expasy.org/",
+        "cite": "(2024), \"UniCarb-DB,\" https://sciencegateways.org/resources/unicarb-db.",
+        "tags": []
+    },
+    {
+        "name": "AGINFRA+",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9866",
+        "abstract": "AGINFRA+ aims to exploit core e-infrastructures such as D4Science, EGI.eu, OpenAIRE and EUDAT, towards the evolution of the AGINFRA data infrastructure, so as to provide a sustainable channel addressing adjacent but not fully connected user communities around...",
+        "published_on": "N/A",
+        "site_url": "https://aginfra.d4science.org/",
+        "cite": "(2024), \"AGINFRA+,\" https://sciencegateways.org/resources/aginfra.",
+        "tags": [
+            "AGINFRA",
+            "agriculture",
+            "e-infrastructure",
+            "food"
+        ]
+    },
+    {
+        "name": "DFC (DataNet Federation Consortium)",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9867",
+        "abstract": "Major science and engineering initiatives are dependent upon massive data collections that comprise observational data, experimental data, simulation data, and engineering data. To support science and engineering collaborations, a policy-driven national data...",
+        "published_on": "N/A",
+        "site_url": "http://datafed.org",
+        "cite": "(2024), \"DFC (DataNet Federation Consortium),\" https://sciencegateways.org/resources/dfcdatanetfederationconsortium.",
+        "tags": [
+            "Data Driven Science",
+            "Data Management",
+            "DataNet",
+            "DFC"
+        ]
+    },
+    {
+        "name": "ORCA (Open Resource Control Architecture)",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9868",
+        "abstract": "ORCA is a software framework and open-source platform for managing a programmatically controllable shared substrate, which may contain any combination of servers, storage, networks, or other components. This class of systems is often called cloud computing or utility...",
+        "published_on": "N/A",
+        "site_url": "https://geni-orca.renci.org/trac/wiki/orca-introduction",
+        "cite": "(2024), \"ORCA (Open Resource Control Architecture),\" https://sciencegateways.org/resources/orcaopenresourcecontrolarchitecture.",
+        "tags": [
+            "cloud computing",
+            "GENI",
+            "open source platform",
+            "ORCA",
+            "Software",
+            "softwareEntry",
+            "utility computing"
+        ]
+    },
+    {
+        "name": "ARGs - Gateway",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9869",
+        "abstract": "Much global attention has been paid to antibiotic resistance in monitoring its emergence, accumulation and dissemination. For rapid characterization and quantification of antibiotic resistance genes (ARGs) in metagenomic datasets, an online analysis pipeline,...",
+        "published_on": "N/A",
+        "site_url": "https://smile.hku.hk/SARGs",
+        "cite": "(2024), \"ARGs - Gateway,\" https://sciencegateways.org/resources/args-gateway.",
+        "tags": [
+            "antibiotic resistance genes",
+            "ARGs-OAP",
+            "public health",
+            "SARG"
+        ]
+    },
+    {
+        "name": "ChEMBL",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9870",
+        "abstract": "ChEMBL is a database of bioactive drug-like small molecules, it contains 2-D structures, calculated properties (e.g. logP, Molecular Weight, Lipinski Parameters, etc.) and abstracted bioactivities (e.g. binding constants, pharmacology and ADMET data). The data is...",
+        "published_on": "N/A",
+        "site_url": "https://www.ebi.ac.uk/chembl/",
+        "cite": "(2024), \"ChEMBL,\" https://sciencegateways.org/resources/chembl.",
+        "tags": [
+            "ChEMBL",
+            "Molecular database",
+            "Software"
+        ]
+    },
+    {
+        "name": "Benchmark Energy & Geometry Database (BEGDB)",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9871",
+        "abstract": "The Benchmark Energy & Geometry Database (BEGDB) collects results of highly accurate QM calculations of molecular structures, energies and properties. These data can serve as benchmarks for testing and parameterization of other computational methods.",
+        "published_on": "N/A",
+        "site_url": "http://www.begdb.com",
+        "cite": "(2024), \"Benchmark Energy & Geometry Database (BEGDB),\" https://sciencegateways.org/resources/benchmarkenergygeometrydatabasebegdb.",
+        "tags": [
+            "BEGDB",
+            "database",
+            "molecular structure"
+        ]
+    },
+    {
+        "name": "DESIRA Gateway",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9872",
+        "abstract": "DESIRA Gateway helps the project to develop the concept of Socio-Cyber-Physical Systems to advance understanding of the impact of digitisation in rural areas, linking analysis directly to the United Nation’s Sustainable Development Goals. DESIRA enrols agriculture,...",
+        "published_on": "N/A",
+        "site_url": "https://desira.d4science.org",
+        "cite": "(2024), \"DESIRA Gateway,\" https://sciencegateways.org/resources/desiragateway.",
+        "tags": [
+            "D4science",
+            "DESIRA",
+            "virtual research environment"
+        ]
+    },
+    {
+        "name": "SWISS-MODEL",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9873",
+        "abstract": "SWISS-MODEL is a fully automated service for protein structure homology modelling. It provides a personal web based workspace for interactive modelling, storing project data and visualizing results online.",
+        "published_on": "N/A",
+        "site_url": "https://swissmodel.expasy.org/",
+        "cite": "(2024), \"SWISS-MODEL,\" https://sciencegateways.org/resources/swiss-model.",
+        "tags": []
+    },
+    {
+        "name": "OSiRIS - Open Storage Research Infrastructure",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9874",
+        "abstract": "OSiRIS has storage resources at Wayne State University, Michigan State University, and University of Michigan. We can store data spread across all three sites or target storage resources at a subset of the sites. The end goal is that researchers have a readily...",
+        "published_on": "N/A",
+        "site_url": "https://www.osris.org",
+        "cite": "(2024), \"OSiRIS - Open Storage Research Infrastructure,\" https://sciencegateways.org/resources/osiris-openstorageresearchinfrastructure.",
+        "tags": [
+            "Ceph",
+            "multi-institutional storage infrastructure",
+            "Open Storage",
+            "OSiRIS",
+            "softwareEntry"
+        ]
+    },
+    {
+        "name": "Sci-GaIA",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9875",
+        "abstract": "Sci-GaiA aims at creating a sustainable foundation of educational materials and procedures for the development and management of Science Gateways and e–Infrastructures in Africa and beyond.",
+        "published_on": "N/A",
+        "site_url": "http://www.sci-gaia.eu",
+        "cite": "(2024), \"Sci-GaIA,\" https://sciencegateways.org/resources/sci-gaia.",
+        "tags": [
+            "Africa",
+            "Classroom",
+            "educational material",
+            "e–Infrastructures",
+            "Sci-GaiA"
+        ]
+    },
+    {
+        "name": "CAVER",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9876",
+        "abstract": "CAVER is a software tool for analysis and visualization of tunnels and channels in protein structures. CAVER provides rapid, accurate and fully automated calculation of tunnels and channels in static and dynamic structures. The molecules amendable to analysis of...",
+        "published_on": "N/A",
+        "site_url": "http://caver.cz/",
+        "cite": "(2024), \"CAVER,\" https://sciencegateways.org/resources/caver.",
+        "tags": []
+    },
+    {
+        "name": "ARIADNE",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9877",
+        "abstract": "ARIADNEPlus Gateway helps the project to develop a data infrastructure embedded in a cloud that offer the availability of Virtual Research Environments where data-based archaeological research may be carried out. The project will furthermore develop a Linked Data...",
+        "published_on": "N/A",
+        "site_url": "http://www.ariadne-infrastructure.eu/",
+        "cite": "(2024), \"ARIADNE,\" https://sciencegateways.org/resources/ariadne.",
+        "tags": [
+            "archaeological",
+            "ARIADNE",
+            "digital datasets",
+            "research infrastructure"
+        ]
+    },
+    {
+        "name": "GENI (Global Environment for Network Innovations)",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9878",
+        "abstract": "GENI (Global Environment for Network Innovations) provides a virtual laboratory for networking and distributed systems research and education. It is well suited for exploring networks at scale, thereby promoting innovations in network science, security, services and...",
+        "published_on": "N/A",
+        "site_url": "http://www.geni.net",
+        "cite": "(2024), \"GENI (Global Environment for Network Innovations),\" https://sciencegateways.org/resources/geniglobalenvironmentfornetworkinnovations.",
+        "tags": [
+            "GENI",
+            "Network Innovations",
+            "network science",
+            "virtual laboratory"
+        ]
+    },
+    {
+        "name": "Brain Life",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9879",
+        "abstract": "We are developing an open, online platform to provide a seamless access to cloud computing infrastructure and brain data and data derivatives. This platform is meant to reach out beyond neuroscience, allowing also computer scientists, statisticians and engineers...",
+        "published_on": "N/A",
+        "site_url": "https://brainlife.io",
+        "cite": "(2024), \"Brain Life,\" https://sciencegateways.org/resources/brainlife.",
+        "tags": [
+            "brain data",
+            "Brasin Life",
+            "neuroscience"
+        ]
+    },
+    {
+        "name": "National Consortium for Data Science (NCDS)",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9880",
+        "abstract": "The National Consortium for Data Science (NCDS) is a collaboration of leaders in academia, industry, and government formed to address the data challenges and opportunities of the 21st century. The NCDS helps members take advantage of data in ways that result in new...",
+        "published_on": "N/A",
+        "site_url": "http://datascienceconsortium.org",
+        "cite": "(2024), \"National Consortium for Data Science (NCDS),\" https://sciencegateways.org/resources/nationalconsortiumfordatasciencencds.",
+        "tags": [
+            "data-literate workforce",
+            "Data Matters",
+            "data science community",
+            "NCDS"
+        ]
+    },
+    {
+        "name": "National Data Service",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9881",
+        "abstract": "The National Data Service is an emerging vision of how scientists and researchers across all disciplines can find, reuse, and publish data. It is an international federation of data providers, data aggregators, community-specific federations, publishers, and...",
+        "published_on": "N/A",
+        "site_url": "http://www.nationaldataservice.org",
+        "cite": "(2024), \"National Data Service,\" https://sciencegateways.org/resources/nationaldataservice.",
+        "tags": [
+            "data aggregator",
+            "data archiving",
+            "data provider",
+            "digital data",
+            "National Data Service",
+            "NDS"
+        ]
+    },
+    {
+        "name": "SETTER",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9882",
+        "abstract": "The web-server utilizes SETTER (SEcondary sTructure-based TERtiary Structure Similarity Algorithm) method for fast and accurate structural pairwise alignment. The efficiency of the algorithm is given by the decomposition of the RNA structure into the set of...",
+        "published_on": "N/A",
+        "site_url": "http://setter.projekty.ms.mff.cuni.cz/help/index/",
+        "cite": "(2024), \"SETTER,\" https://sciencegateways.org/resources/setter.",
+        "tags": []
+    },
+    {
+        "name": "Tropical Ecology Assessment and Monitoring (TEAM) Network",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9883",
+        "abstract": "The idea behind TEAM is deceptively simple: to measure and compare plants, terrestrial mammals, ground-dwelling birds and climate using a standard methodology in a range of tropical forests, from relatively pristine places to those most affected by people. TEAM...",
+        "published_on": "N/A",
+        "site_url": "http://www.teamnetwork.org",
+        "cite": "(2024), \"Tropical Ecology Assessment and Monitoring (TEAM) Network,\" https://sciencegateways.org/resources/tropicalecologyassessmentandmonitoringteamnetwork.",
+        "tags": [
+            "plant",
+            "TEAM Network",
+            "terrestrial mammals",
+            "Tropical Ecology"
+        ]
+    },
+    {
+        "name": "CRISPRs web server",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9884",
+        "abstract": "CRISPRs web server acts as a gateway to publicly accessible CRISPRs database and software. It enables the easy detection of CRISPRs in locally-produced data and consultation of CRISPRs present in the database. It also gives information on the presence of...",
+        "published_on": "N/A",
+        "site_url": "http://crispr.i2bc.paris-saclay.fr/",
+        "cite": "(2024), \"CRISPRs web server,\" https://sciencegateways.org/resources/crisprswebserver.",
+        "tags": []
+    },
+    {
+        "name": "ExoGENI",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9885",
+        "abstract": "ExoGENI is a new GENI testbed that links GENI to two advances in virtual infrastructure services outside of GENI: open cloud computing (OpenStack) and dynamic circuit fabrics. ExoGENI orchestrates a federation of independent cloud sites located across the US and...",
+        "published_on": "N/A",
+        "site_url": "http://www.exogeni.net",
+        "cite": "(2024), \"ExoGENI,\" https://sciencegateways.org/resources/exogeni.",
+        "tags": [
+            "cloud computing",
+            "ExoGENI",
+            "GENI",
+            "networked infrastructure-as-a-service",
+            "NIaaS",
+            "virtual infrastructure"
+        ]
+    },
+    {
+        "name": "The Dundee Resource for Sequence Analysis and Structure Prediction",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9886",
+        "abstract": "This resource includes sequence pipeline (TarO) analysis, a secondary prediction (JPred) structure server, and a protein kinase database and kinase classification pipeline (Kinomer).",
+        "published_on": "N/A",
+        "site_url": "http://www.compbio.dundee.ac.uk/drsasp.html",
+        "cite": "(2024), \"The Dundee Resource for Sequence Analysis and Structure Prediction,\" https://sciencegateways.org/resources/thedundeeresourceforsequenceanalysisandstructureprediction.",
+        "tags": []
+    },
+    {
+        "name": "USQCD",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9887",
+        "abstract": "USQCD is a collaboration of US scientists developing and using large-scale computers for calculations in lattice quantum chromodynamics. Lattice QCD calculations allow us to understand the results of particle and nuclear physics experiments in terms of QCD, the...",
+        "published_on": "N/A",
+        "site_url": "https://www.usqcd.org",
+        "cite": "(2024), \"USQCD,\" https://sciencegateways.org/resources/usqcd.",
+        "tags": [
+            "high energy",
+            "Lattice QCD",
+            "nuclear physics",
+            "quantum chromodynamics",
+            "softwareEntry",
+            "USQCD"
+        ]
+    },
+    {
+        "name": "HotSpot Wizard",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9888",
+        "abstract": "Design of mutations and smart libraries in protein engineering.",
+        "published_on": "N/A",
+        "site_url": "https://loschmidt.chemi.muni.cz/hotspotwizard/",
+        "cite": "(2024), \"HotSpot Wizard,\" https://sciencegateways.org/resources/hotspotwizard.",
+        "tags": []
+    },
+    {
+        "name": "IMGT®, the international ImMunoGeneTics information system",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9889",
+        "abstract": "IMGT®, the international ImMunoGeneTics information system® http://www.imgt.org, is the global reference in immunogenetics and immunoinformatics, created in 1989 by Marie-Paule Lefranc (Université de Montpellier and CNRS). IMGT® is a high-quality integrated knowledge...",
+        "published_on": "N/A",
+        "site_url": "http://www.imgt.org/",
+        "cite": "(2024), \"IMGT®, the international ImMunoGeneTics information system,\" https://sciencegateways.org/resources/imgttheinternationalimmunogeneticsinformationsystem.",
+        "tags": []
+    },
+    {
+        "name": "SpotOn",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9890",
+        "abstract": "SpotOn is a robust algorithm developed to identify and classify the interfacial residues as Hot-Spots (HS) and Null-Spots (NS) with a final accuracy of 0.95 and a sensitivity of 0.95 on an independent test set. The predictor was developed using an ensemble learning...",
+        "published_on": "N/A",
+        "site_url": "https://milou.science.uu.nl/cgi/services/SPOTON/spoton/",
+        "cite": "(2024), \"SpotOn,\" https://sciencegateways.org/resources/spoton.",
+        "tags": [
+            "Hot-Spots",
+            "interfacial residues",
+            "Null-Spots",
+            "protein",
+            "SpotOn"
+        ]
+    },
+    {
+        "name": "ProteinAtlas",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9891",
+        "abstract": "Maps all the human proteins in cells, tissues and organs using integration of various omics technologies, including antibody-based imaging, mass spectrometry-based proteomics, transcriptomics and systems biology. All the data in the knowledge resource...",
+        "published_on": "N/A",
+        "site_url": "http://www.proteinatlas.org/",
+        "cite": "(2024), \"ProteinAtlas,\" https://sciencegateways.org/resources/proteinatlas.",
+        "tags": []
+    },
+    {
+        "name": "AtomicChargeCalculator",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9892",
+        "abstract": "AtomicChargeCalculator (ACC) is a complex yet intuitive utility for the calculation, visualization and analysis of atomic charges for small drug­like molecules, as well as for large biomolecular complexes. Up to thousands molecules can be processed in one run....",
+        "published_on": "N/A",
+        "site_url": "http://webchem.ncbr.muni.cz/Platform/ChargeCalculator",
+        "cite": "(2024), \"AtomicChargeCalculator,\" https://sciencegateways.org/resources/atomicchargecalculator.",
+        "tags": []
+    },
+    {
+        "name": "RADICAL Cybertools",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9893",
+        "abstract": "RADICAL Cybertools is an abstractions-based suite of well-defined capabilities that are architected for scalable, interoperable and sustainable approaches to support science on a range of high-performance and distributed computing systems. It currently...",
+        "published_on": "N/A",
+        "site_url": "http://radical-cybertools.github.io/",
+        "cite": "(2024), \"RADICAL Cybertools,\" https://sciencegateways.org/resources/radicalcybertools.",
+        "tags": [
+            "Cybertools",
+            "RADICAL-Pilot",
+            "SAGA",
+            "softwareEntry"
+        ]
+    },
+    {
+        "name": "Auto-Rickshaw",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9894",
+        "abstract": "The EMBL-Hamburg automated crystal structure determination platform is a system which contains several distinct decision-makers which executes a number of macromolecular crystallographic software programs to produce a software pipeline for automated and efficient...",
+        "published_on": "N/A",
+        "site_url": "https://www.embl-hamburg.de/Auto-Rickshaw/",
+        "cite": "(2024), \"Auto-Rickshaw,\" https://sciencegateways.org/resources/auto-rickshaw.",
+        "tags": [
+            "Auto-Rickshaw",
+            "crystal structure determination",
+            "macromolecular crystallographic software"
+        ]
+    },
+    {
+        "name": "Trinity CTAT Galaxy",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9895",
+        "abstract": "The Trinity Cancer Transcriptome Analysis Toolkit (CTAT) aims to provide tools for leveraging RNA-Seq to gain insights into the biology of cancer transcriptomes. Bioinformatics tool support is provided for mutation detection, fusion transcript identification, de novo...",
+        "published_on": "N/A",
+        "site_url": "https://galaxyproject.org/use/trinity-ctat/",
+        "cite": "(2024), \"Trinity CTAT Galaxy,\" https://sciencegateways.org/resources/trinityctatgalaxy.",
+        "tags": [
+            "cancer",
+            "NCGAS",
+            "Trinity"
+        ]
+    },
+    {
+        "name": "Scipion",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9896",
+        "abstract": "Scipion is an image processing framework to obtain 3D models of macromolecular complexes using Electron Microscopy (3DEM). It integrates several software packages and presents an unified interface for both biologists and developers. Scipion allows to execute...",
+        "published_on": "N/A",
+        "site_url": "http://scipion.i2pc.es",
+        "cite": "(2024), \"Scipion,\" https://sciencegateways.org/resources/scipion.",
+        "tags": [
+            "3DEM",
+            "electron microscopy",
+            "image processing framework",
+            "Scipion",
+            "Xmipp"
+        ]
+    },
+    {
+        "name": "MotiveValidator",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9897",
+        "abstract": "MotiveValidator is a platform for a set of applications designed to help you determine whether a residue or a ligand in a biomolecule or biomolecular complex is structurally complete and correctly annotated according to its models stored in the wwPDB Chemical...",
+        "published_on": "N/A",
+        "site_url": "https://webchem.ncbr.muni.cz/Platform/MotiveValidator",
+        "cite": "(2024), \"MotiveValidator,\" https://sciencegateways.org/resources/motivevalidator.",
+        "tags": []
+    },
+    {
+        "name": "Cloudmesh Client Toolkit",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9898",
+        "abstract": "The cloudmesh client toolkit is a lightweight client interface of accessing heterogeneous clouds, clusters, and workstations right from the users computer. The user can manage his own set of resources he would like to utilize. Thus the user has the freedom to...",
+        "published_on": "N/A",
+        "site_url": "http://cloudmesh.github.io/client/",
+        "cite": "(2024), \"Cloudmesh Client Toolkit,\" https://sciencegateways.org/resources/cloudmeshclienttoolkit.",
+        "tags": [
+            "Cloudmesh",
+            "Clouds",
+            "clusters",
+            "commandline shell",
+            "softwareEntry",
+            "workstations"
+        ]
+    },
+    {
+        "name": "Language Applications (LAPPS) Grid",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9899",
+        "abstract": "The LAPPS Grid is a framework for text analysis and text mining. It provides seamless access to a wide range of Natural Language Processing (NLP) tools and resources (e.g., popular public tools such as StanfordNLP, OpenNLP, NLTK, LingPipe),as well as a state-...",
+        "published_on": "N/A",
+        "site_url": "https://lappsgrid.org",
+        "cite": "(2024), \"Language Applications (LAPPS) Grid,\" https://sciencegateways.org/resources/languageapplicationslappsgrid.",
+        "tags": [
+            "Language Application",
+            "LAPPS",
+            "NLP"
+        ]
+    },
+    {
+        "name": "European Genome-phenome Archive (EGA)",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9901",
+        "abstract": "The European Genome-phenome Archive (EGA) is a service for permanent archiving and sharing of all types of personally identifiable genetic and phenotypic data resulting from biomedical research projects. The EGA provides a service for the permanent archiving and...",
+        "published_on": "N/A",
+        "site_url": "https://ega-archive.org/",
+        "cite": "(2024), \"European Genome-phenome Archive (EGA),\" https://sciencegateways.org/resources/europeangenome-phenomearchiveega.",
+        "tags": []
+    },
+    {
+        "name": "The USA National Phenology Network (USA-NPN)",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9902",
+        "abstract": "The USA National Phenology Network was established in 2007 to collect, store, and share phenology data and information. It supports science, natural resource management, and communication by providing data, tools, and resources and by connecting people. It consists...",
+        "published_on": "N/A",
+        "site_url": "https://www.usanpn.org",
+        "cite": "(2024), \"The USA National Phenology Network (USA-NPN),\" https://sciencegateways.org/resources/theusanationalphenologynetworkusa-npn.",
+        "tags": [
+            "Classroom",
+            "Nature’s Notebook",
+            "Phenology Network",
+            "USA-NPN"
+        ]
+    },
+    {
+        "name": "ArrayExpress",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9903",
+        "abstract": "ArrayExpress Archive of Functional Genomics Data stores data from high-throughput functional genomics experiments, and provides these data for reuse to the research community.",
+        "published_on": "N/A",
+        "site_url": "https://www.ebi.ac.uk/arrayexpress/",
+        "cite": "(2024), \"ArrayExpress,\" https://sciencegateways.org/resources/arrayexpress.",
+        "tags": [
+            "ArrayExpress",
+            "genomics"
+        ]
+    },
+    {
+        "name": "OpenAIRE",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9904",
+        "abstract": "OpenAIRE-Connect aims to provide technological and social bridges, and deliver services enabling uniform exchange of research artefacts (literature, data, and methods), with semantic links between them, across research communities and content providers in scientific...",
+        "published_on": "N/A",
+        "site_url": "https://www.openaire.eu/",
+        "cite": "(2024), \"OpenAIRE,\" https://sciencegateways.org/resources/openaire.",
+        "tags": [
+            "D4science",
+            "infrastructure",
+            "open access policy",
+            "scientific publications"
+        ]
+    },
+    {
+        "name": "InterMine",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9905",
+        "abstract": "InterMine integrates biological data sources, making it easy to query and analyse data.",
+        "published_on": "N/A",
+        "site_url": "http://intermine.org/",
+        "cite": "(2024), \"InterMine,\" https://sciencegateways.org/resources/intermine.",
+        "tags": []
+    },
+    {
+        "name": "XDMoD: Comprehensive HPC System Management Tool",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9906",
+        "abstract": "The XDMoD (XD Metrics on Demand) tool provides HPC center personnel and senior leadership with the ability to easily obtain detailed operational metrics of HPC systems coupled with extensive analytical capability to optimize performance at the system and job level,...",
+        "published_on": "N/A",
+        "site_url": "https://xdmod.ccr.buffalo.edu",
+        "cite": "(2024), \"XDMoD: Comprehensive HPC System Management Tool,\" https://sciencegateways.org/resources/xdmodcomprehensivehpcsystemmanagementtool.",
+        "tags": [
+            "HPC System Management",
+            "Metrics",
+            "XDMoD"
+        ]
+    },
+    {
+        "name": "Primer3web",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9907",
+        "abstract": "Design PCR primers from DNA sequence. Widely used (190k Google hits for \"primer3\"). From mispriming libraries to sequence quality data to the generation of internal oligos, primer3 does it. C&perl. Developers/testers/documenters needed.",
+        "published_on": "N/A",
+        "site_url": "http://primer3.ut.ee/",
+        "cite": "(2024), \"Primer3web,\" https://sciencegateways.org/resources/primer3web.",
+        "tags": []
+    },
+    {
+        "name": "Tripal",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9908",
+        "abstract": "Tripal is a toolkit for construction of online biological (genetics, genomics, breeding, etc), community database, and is a member of the GMOD family of tools. Tripal provides by default integration with the GMOD Chado database schema and Drupal, a popular Content...",
+        "published_on": "N/A",
+        "site_url": "http://www.tripal.info",
+        "cite": "(2024), \"Tripal,\" https://sciencegateways.org/resources/tripal.",
+        "tags": [
+            "Drupal",
+            "genetics",
+            "genomics",
+            "GMOD Chado",
+            "online biological community database",
+            "Software",
+            "softwareEntry",
+            "Tripal"
+        ]
+    },
+    {
+        "name": "Crops in silico",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9909",
+        "abstract": "Crops in silico is a global scientific collaboration that aims to harness the great strides in understanding of plant function from genes to whole plants, to accelerate forward approaches to crop breeding and bioengineering. The Crops in silico community is comprised...",
+        "published_on": "N/A",
+        "site_url": "http://cropsinsilico.org",
+        "cite": "(2024), \"Crops in silico,\" https://sciencegateways.org/resources/cropsinsilico.",
+        "tags": [
+            "Crops in silico",
+            "genome",
+            "phenome",
+            "plant function",
+            "scientific collaboration"
+        ]
+    },
+    {
+        "name": "Dataverse - Open source research data repository software",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9910",
+        "abstract": "Dataverse is an open source web application to share, preserve, cite, explore, and analyze research data. It facilitates making data available to others, and allows you to replicate others' work more easily. Researchers, journals, data authors, publishers, data...",
+        "published_on": "N/A",
+        "site_url": "https://dataverse.org",
+        "cite": "(2024), \"Dataverse - Open source research data repository software,\" https://sciencegateways.org/resources/dataverse-opensourceresearchdatarepositorysoftware.",
+        "tags": [
+            "data publication",
+            "data science",
+            "Dataverse",
+            "research data",
+            "softwareEntry"
+        ]
+    },
+    {
+        "name": "Expression Atlases",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9911",
+        "abstract": "The atlases provide a spatio-temporal framework capturing knowledge of embryo development, staging and anatomy as well as a significant volume of curated gene-expression and related data (~40K individual assays) made available via web-based query and browse...",
+        "published_on": "N/A",
+        "site_url": "https://elixiruknode.org/expression-atlases/",
+        "cite": "(2024), \"Expression Atlases,\" https://sciencegateways.org/resources/expressionatlases.",
+        "tags": []
+    },
+    {
+        "name": "Code Ocean",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9912",
+        "abstract": "Code Ocean is a cloud-based computational reproducibility platform that provides researchers and developers an easy way to share, discover and run code published in academic journals and conferences.",
+        "published_on": "N/A",
+        "site_url": "https://codeocean.com",
+        "cite": "(2024), \"Code Ocean,\" https://sciencegateways.org/resources/codeocean.",
+        "tags": [
+            "Code Ocean",
+            "computational reproducibility platform",
+            "scientific code",
+            "softwareEntry"
+        ]
+    },
+    {
+        "name": "Europe PMC",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9913",
+        "abstract": "Europe PMC is a repository, providing access to worldwide life sciences articles, books, patents and clinical guidelines. Europe PMC provides links to relevant records in databases such as Uniprot, European Nucleotide Archive (ENA), Protein Data Bank Europe (PDBE)...",
+        "published_on": "N/A",
+        "site_url": "http://europepmc.org/",
+        "cite": "(2024), \"Europe PMC,\" https://sciencegateways.org/resources/europepmc.",
+        "tags": []
+    },
+    {
+        "name": "Yeastract",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9914",
+        "abstract": "YEASTRACT (Yeast Search for Transcriptional Regulators And Consensus Tracking) is a curated repository of approximately 163000 regulatory associations between transcription factors (TF) and target genes in Saccharomyces cerevisiae, based on more than 1600...",
+        "published_on": "N/A",
+        "site_url": "http://www.yeastract.com/",
+        "cite": "(2024), \"Yeastract,\" https://sciencegateways.org/resources/yeastract.",
+        "tags": []
+    },
+    {
+        "name": "yt project",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9915",
+        "abstract": "yt is an open-source, permissively-licensed python package for analyzing and visualizing volumetric data. yt supports structured, variable-resolution meshes, unstructured meshes, and discrete or sampled data such as particles. Focused on driving physically-meaningful...",
+        "published_on": "N/A",
+        "site_url": "http://yt-project.org",
+        "cite": "(2024), \"yt project,\" https://sciencegateways.org/resources/ytproject.",
+        "tags": [
+            "Astrophysics",
+            "nuclear engineering",
+            "oceanography",
+            "seismology",
+            "softwareEntry",
+            "Visualization",
+            "volumetric data",
+            "yt"
+        ]
+    },
+    {
+        "name": "Brain Image Library (BIL)",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9916",
+        "abstract": "The Brain Image Library (BIL) is a national public resource enabling researchers to deposit, analyze, mine, share and interact with large brain image datasets. BIL encompasses the deposition of datasets, the integration of datasets into a searchable web-accessible...",
+        "published_on": "N/A",
+        "site_url": "http://www.brainimagelibrary.org",
+        "cite": "(2024), \"Brain Image Library (BIL),\" https://sciencegateways.org/resources/brainimagelibrarybil.",
+        "tags": [
+            "BIL",
+            "brain archive",
+            "brain image datasets"
+        ]
+    },
+    {
+        "name": "Einstein Toolkit",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9917",
+        "abstract": "The Einstein Toolkit is a community-driven software platform of core computational tools to advance and support research in relativistic astrophysics and gravitational physics. It aims to include any computational tool the fits into it's scope. Currently, a large...",
+        "published_on": "N/A",
+        "site_url": "http://einsteintoolkit.org",
+        "cite": "(2024), \"Einstein Toolkit,\" https://sciencegateways.org/resources/einsteintoolkit.",
+        "tags": [
+            "Astrophysics",
+            "computational tool",
+            "Einstein Toolkit",
+            "gravitational physics",
+            "softwareEntry"
+        ]
+    },
+    {
+        "name": "SUPER Project",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9918",
+        "abstract": "The Institute for Sustained Performance, Energy, and Resilience (SUPER) project is a broadly-based SciDAC institute with expertise in compilers and other system tools, performance engineering, energy management, and resilience. The goal of the project is to ensure...",
+        "published_on": "N/A",
+        "site_url": "http://super-scidac.org",
+        "cite": "(2024), \"SUPER Project,\" https://sciencegateways.org/resources/superproject.",
+        "tags": [
+            "energy management",
+            "high performance compilers",
+            "Multi-Objective Optimization",
+            "performance engineering",
+            "SciDAC",
+            "Software",
+            "softwareEntry",
+            "SUPER"
+        ]
+    },
+    {
+        "name": "Apache Airavata",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9919",
+        "abstract": "Apache Airavata is a software framework that enables you to compose, manage, execute, and monitor large scale applications and workflows on distributed computing resources such as local clusters, supercomputers,computational grids, and computing clouds.",
+        "published_on": "N/A",
+        "site_url": "https://airavata.apache.org/",
+        "cite": "(2024), \"Apache Airavata,\" https://sciencegateways.org/resources/apacheairavata.",
+        "tags": [
+            "Apache Airavata",
+            "scientific gateways",
+            "SGCI Affiliate",
+            "softwareEntry",
+            "software framework"
+        ]
+    },
+    {
+        "name": "Hep C Calculator",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9920",
+        "abstract": "Hep C Calculator is an interactive tool developed to evaluate the cost-effectiveness of DAAs for the treatment of HCV globally. The tool utilizes a mathematical model to simulate the life course of HCV-infected populations in 28 countries (considered as priority...",
+        "published_on": "N/A",
+        "site_url": "https://www.hepccalculator.org",
+        "cite": "(2024), \"Hep C Calculator,\" https://sciencegateways.org/resources/hepccalculator.",
+        "tags": [
+            "HCV",
+            "Hepatitis C",
+            "Hep C Calculator",
+            "infection"
+        ]
+    },
+    {
+        "name": "LiceBase",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9921",
+        "abstract": "LiceBase is a database for sea lice genomics. LiceBase provides the genome annotation of the Atlantic salmon louse Lepeophtheirus salmonis, a genome browser, Blast functionality and access to related high-thoughput genomics data. Sea lice...",
+        "published_on": "N/A",
+        "site_url": "https://licebase.org/",
+        "cite": "(2024), \"LiceBase,\" https://sciencegateways.org/resources/licebase.",
+        "tags": []
+    },
+    {
+        "name": "MetaNetX",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9922",
+        "abstract": "MetaNetX is a repository of genome-scale metabolic networks (GSMNs) and biochemical pathways from a number of major resources imported into a common namespace of chemical compounds, reactions, cellular compartments - namely MNXref - and proteins. The MetaNetX.org...",
+        "published_on": "N/A",
+        "site_url": "https://rdf.metanetx.org/",
+        "cite": "(2024), \"MetaNetX,\" https://sciencegateways.org/resources/metanetx.",
+        "tags": []
+    },
+    {
+        "name": "neXtProt",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9923",
+        "abstract": "An innovative knowledge platform dedicated to human proteins. It contains a wealth of data on all the human proteins that are produced by the 20'000 protein- coding genes found in the human genome.",
+        "published_on": "N/A",
+        "site_url": "https://www.nextprot.org/",
+        "cite": "(2024), \"neXtProt,\" https://sciencegateways.org/resources/nextprot.",
+        "tags": []
+    },
+    {
+        "name": "Expression Atlas",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9924",
+        "abstract": "Expression Atlas is an open science resource that gives users a powerful way to find information about gene and protein expression across species and biological conditions such as different tissues, cell types, developmental stages and diseases among...",
+        "published_on": "N/A",
+        "site_url": "https://www.ebi.ac.uk/gxa/home",
+        "cite": "(2024), \"Expression Atlas,\" https://sciencegateways.org/resources/expressionatlas.",
+        "tags": []
+    },
+    {
+        "name": "The Bro Network Security Monitor",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9925",
+        "abstract": "Bro is a passive, open-source network traffic analyzer. It is primarily a security monitor that inspects all traffic on a link in depth for signs of suspicious activity. More generally, however, Bro supports a wide range of traffic analysis tasks even outside of the...",
+        "published_on": "N/A",
+        "site_url": "https://www.bro.org",
+        "cite": "(2024), \"The Bro Network Security Monitor,\" https://sciencegateways.org/resources/thebronetworksecuritymonitor.",
+        "tags": [
+            "Bro",
+            "network analysis",
+            "Network Security",
+            "softwareEntry"
+        ]
+    },

@@ -1,0 +1,1316 @@
+
+    {
+        "name": "SciStarter",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10172",
+        "abstract": "Science we can do together",
+        "published_on": "N/A",
+        "site_url": "http://scistarter.com/",
+        "cite": "(2024), \"SciStarter,\" https://sciencegateways.org/resources/scistarter.",
+        "tags": [
+            "air quality",
+            "analyze",
+            "bacteria",
+            "climate",
+            "cloud",
+            "collect",
+            "global",
+            "ground",
+            "health",
+            "lakes",
+            "monitoring",
+            "NASA",
+            "observation",
+            "rain",
+            "soil",
+            "weather"
+        ]
+    },
+    {
+        "name": "Citizen Science",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10173",
+        "abstract": "Citizen science is the involvement of the public in scientific research – whether community-driven research or global investigations. The Citizen Science Association unites expertise from educators, scientists, data managers, and others to power citizen science. Join...",
+        "published_on": "N/A",
+        "site_url": "http://citizenscience.org/",
+        "cite": "(2024), \"Citizen Science,\" https://sciencegateways.org/resources/citizenscience.",
+        "tags": [
+            "communication",
+            "community",
+            "coordination",
+            "data managers",
+            "Diversity",
+            "educators",
+            "global",
+            "public",
+            "research",
+            "scientist"
+        ]
+    },
+    {
+        "name": "Center for Open Science",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10174",
+        "abstract": "Our mission is to provide expertise, tools, and training to help researchers create and promote open science within their teams and institutions. Promoting these practices within the research funding and publishing communities accelerates scientific progress",
+        "published_on": "N/A",
+        "site_url": "https://cos.io/",
+        "cite": "(2024), \"Center for Open Science,\" https://sciencegateways.org/resources/centerforopenscience.",
+        "tags": [
+            "community",
+            "connect",
+            "cycle",
+            "expertise",
+            "framework",
+            "institution",
+            "manage",
+            "open science",
+            "Reproducibility",
+            "research",
+            "scholarly",
+            "team",
+            "tools",
+            "training",
+            "workflow"
+        ]
+    },
+    {
+        "name": "Critical Zone Observatories",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10175",
+        "abstract": "The National CZO Program is a community resource. The Program serves the international scientific community through research, infrastructure, data, and models. We focus on how components of the Critical Zone interact, shape Earth's surface, and support life. If you...",
+        "published_on": "N/A",
+        "site_url": "http://criticalzone.org/",
+        "cite": "(2024), \"Critical Zone Observatories,\" https://sciencegateways.org/resources/criticalzoneobservatories.",
+        "tags": [
+            "air",
+            "biology",
+            "discovery",
+            "Ecology",
+            "geochemestry",
+            "geology",
+            "Geoscience",
+            "hydrology",
+            "life",
+            "rock",
+            "sensors",
+            "situ",
+            "soil",
+            "water"
+        ]
+    },
+    {
+        "name": "Citizen Science Alliance",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10176",
+        "abstract": "The CSA is a collaboration of scientists, software developers and educators who collectively develop, manage and utilise internet-based citizen science projects in order to further science itself, and the public understanding of both science and of the scientific...",
+        "published_on": "N/A",
+        "site_url": "http://www.citizensciencealliance.org/",
+        "cite": "(2024), \"Citizen Science Alliance,\" https://sciencegateways.org/resources/citizensciencealliance.",
+        "tags": [
+            "citizen",
+            "climate",
+            "collaboration",
+            "community",
+            "developers",
+            "distributed",
+            "ecologist",
+            "educators",
+            "internet",
+            "manage",
+            "planetary",
+            "projects",
+            "science",
+            "scientist",
+            "Software",
+            "zooniverse"
+        ]
+    },
+    {
+        "name": "Einstein@Home",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10182",
+        "abstract": "Einstein@Home is a program that uses your computer's idle time to search for gravitational waves from spinning isolated compact objects (among which are pulsars) using data from the LIGO gravitational wave detector.",
+        "published_on": "N/A",
+        "site_url": "https://einsteinathome.org/",
+        "cite": "(2024), \"Einstein@Home,\" https://sciencegateways.org/resources/einsteinhome.",
+        "tags": [
+            "BOINC",
+            "cryptography",
+            "detector",
+            "einstein",
+            "gamma",
+            "gravitational",
+            "LIGO",
+            "neutron",
+            "pulsars",
+            "radio",
+            "ray",
+            "start",
+            "waves"
+        ]
+    },
+    {
+        "name": "DENIS@Home",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10186",
+        "abstract": "DENIS uses volunteer hosts to compute large packets of cardiac electrophysiology simulations. You can participate by downloading and running a free program on your computer. By using the idle time of your computer, you’d be helping researchers on their research...",
+        "published_on": "N/A",
+        "site_url": "http://denis.usj.es/",
+        "cite": "(2024), \"DENIS@Home,\" https://sciencegateways.org/resources/denishome.",
+        "tags": [
+            "BOINC",
+            "cardiac",
+            "cell",
+            "distributed",
+            "electrophysiological",
+            "network",
+            "silico",
+            "ventricular"
+        ]
+    },
+    {
+        "name": "Gerasim@Home",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10187",
+        "abstract": "The project uses Internet-connected computers to do research in discrete mathematics and logic control. The current goal: testing and comparison of heuristic methods for getting separations of parallel algorithms working in the CAD system for designing logic control...",
+        "published_on": "N/A",
+        "site_url": "http://gerasim.boinc.ru/",
+        "cite": "(2024), \"Gerasim@Home,\" https://sciencegateways.org/resources/gerasimhome.",
+        "tags": [
+            "BOINC",
+            "computing",
+            "memory",
+            "optimization",
+            "particle",
+            "shortest path",
+            "swarm"
+        ]
+    },
+    {
+        "name": "ATLAS@Home",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10188",
+        "abstract": "ATLAS@Home is a research project that uses volunteer computing to run simulations of the ATLAS experiment at CERN. You can participate by downloading and running a free program on your computer.",
+        "published_on": "N/A",
+        "site_url": "http://atlasathome.cern.ch/",
+        "cite": "(2024), \"ATLAS@Home,\" https://sciencegateways.org/resources/atlashome.",
+        "tags": [
+            "Atlas",
+            "BOINC",
+            "boson",
+            "CERN",
+            "collisions",
+            "Energy",
+            "higgs",
+            "LHC",
+            "machine",
+            "particle",
+            "physics",
+            "protons",
+            "simulation",
+            "universe",
+            "virtual"
+        ]
+    },
+    {
+        "name": "Eclipse PTP",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10189",
+        "abstract": "The PTP project provides an integrated development environment to support the development of parallel applications written in C, C++, and Fortran",
+        "published_on": "N/A",
+        "site_url": "http://www.eclipse.org/ptp/",
+        "cite": "(2024), \"Eclipse PTP,\" https://sciencegateways.org/resources/eclipseptp.",
+        "tags": [
+            "applications",
+            "batch",
+            "c++",
+            "debugger",
+            "development",
+            "fortran",
+            "gfortran",
+            "GridEngine",
+            "IBM",
+            "LoadLeveler",
+            "MPI",
+            "MPICH2",
+            "OpenACC",
+            "OpenMP",
+            "OpenSHMEM",
+            "parallel",
+            "programming",
+            "runtime",
+            "systems",
+            "UPC"
+        ]
+    },
+    {
+        "name": "Comology@Home",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10190",
+        "abstract": "Cosmology@Home lets you volunteer your spare computer time (like when your screen saver is on) to help search for the model which best describes our Universe and to find the range of models that agree with available cosmological and particle physics data.",
+        "published_on": "N/A",
+        "site_url": "http://www.cosmologyathome.org/",
+        "cite": "(2024), \"Comology@Home,\" https://sciencegateways.org/resources/comologyhome.",
+        "tags": [
+            "astronomical",
+            "BOINC",
+            "Cluster",
+            "cosmology",
+            "dark matter",
+            "electromagnetic",
+            "light",
+            "radiation"
+        ]
+    },
+    {
+        "name": "LHC@Home",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10191",
+        "abstract": "LHC@Home is a volunteer computing platform where you donate idle time on your computer to help physicists compare theory with experiment, in the search for new fundamental particles and answers to questions about the Universe.",
+        "published_on": "N/A",
+        "site_url": "http://lhcathome.web.cern.ch/",
+        "cite": "(2024), \"LHC@Home,\" https://sciencegateways.org/resources/lhchome.",
+        "tags": [
+            "ALICE",
+            "Atlas",
+            "BOINC",
+            "CERN",
+            "CMS",
+            "LHC",
+            "LHCb",
+            "particle",
+            "physics",
+            "universe"
+        ]
+    },
+    {
+        "name": "Universe@Home",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10193",
+        "abstract": "Universe@Home is a research project that uses volunteers to do research in physics and astronomy. You can participate by downloading and running free program on your computer.",
+        "published_on": "N/A",
+        "site_url": "http://universeathome.pl/",
+        "cite": "(2024), \"Universe@Home,\" https://sciencegateways.org/resources/universehome.",
+        "tags": [
+            "astronomy",
+            "BIONIC",
+            "BOINC",
+            "computational",
+            "galaxies",
+            "gravitational",
+            "network",
+            "Power",
+            "stars",
+            "supernovae",
+            "universe",
+            "waves"
+        ]
+    },
+    {
+        "name": "CyVerse",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10194",
+        "abstract": "CyVerse fills a niche created by the computing epoch and a rapidly evolving world. Developing solutions to today’s grand scientific challenges means that we must understand how the organisms that contribute to our food, fuels, and ecosystem are shaped by interactions...",
+        "published_on": "N/A",
+        "site_url": "http://www.cyverse.org/",
+        "cite": "(2024), \"CyVerse,\" https://sciencegateways.org/resources/cyverse.",
+        "tags": [
+            "algorithms",
+            "analyses",
+            "animals",
+            "API",
+            "Authentication",
+            "Bioinformatics",
+            "Biological",
+            "biological sciences",
+            "CI",
+            "cloud",
+            "cyberinfrastructure",
+            "data-driven",
+            "datasets",
+            "deploy",
+            "design",
+            "discovery",
+            "DNA",
+            "dynamic",
+            "ecosystem",
+            "Education",
+            "Environment",
+            "food",
+            "fuels",
+            "greenhouse",
+            "hardware",
+            "image",
+            "iPlant",
+            "laboratories",
+            "life",
+            "microbes",
+            "NSF",
+            "plants",
+            "science",
+            "security",
+            "sequencing",
+            "Software",
+            "virtual"
+        ]
+    },
+    {
+        "name": "Compute Canada",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10196",
+        "abstract": "Compute Canada enables Canadian researchers to perform world-class research using Advanced Research Computing (ARC) strategies. The organization helps researchers who need ARC in all disciplines and at all scales; from individual researchers to some of the largest...",
+        "published_on": "N/A",
+        "site_url": "https://www.computecanada.ca/research-portal/",
+        "cite": "(2024), \"Compute Canada,\" https://sciencegateways.org/resources/computecanada.",
+        "tags": [
+            "aerospace engineering",
+            "analysis",
+            "Chemistry",
+            "community",
+            "computational criminoloy",
+            "fiction",
+            "medicine"
+        ]
+    },
+    {
+        "name": "Manylabs",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10197",
+        "abstract": "Manylabs is a community hacker space or open science and Education. We hold public events and provide a residency program for people working on their own projects",
+        "published_on": "N/A",
+        "site_url": "https://www.manylabs.org/",
+        "cite": "(2024), \"Manylabs,\" https://sciencegateways.org/resources/manylabs.",
+        "tags": [
+            "API",
+            "community",
+            "data",
+            "Education",
+            "events",
+            "hacker",
+            "internships",
+            "meetup",
+            "open science",
+            "public"
+        ]
+    },
+    {
+        "name": "VRE4EIC",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10200",
+        "abstract": "The VRE4EIC project addresses key data and software challenges in supporting multidisciplinary data driven sciences",
+        "published_on": "N/A",
+        "site_url": "http://www.vre4eic.eu/",
+        "cite": "(2024), \"VRE4EIC,\" https://sciencegateways.org/resources/vre4eic.",
+        "tags": [
+            "climate change",
+            "cross-linking",
+            "data-driven",
+            "eartquakes",
+            "Environment",
+            "environmental",
+            "europe",
+            "government",
+            "heterogeneous",
+            "key",
+            "metadata",
+            "pollution",
+            "publications",
+            "research",
+            "semantic web",
+            "Software",
+            "virtual",
+            "workflow"
+        ]
+    },
+    {
+        "name": "EarthCube",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10201",
+        "abstract": "EarthCube was initiated by the National Science Foundation (NSF) in 2011 to transform geoscience research by developing cyberinfrastructure to improve access, sharing, visualization, and analysis of all forms of geosciences data and related resources. As a...",
+        "published_on": "N/A",
+        "site_url": "https://www.earthcube.org/",
+        "cite": "(2024), \"EarthCube,\" https://sciencegateways.org/resources/earthcube.",
+        "tags": [
+            "analyze",
+            "atmosphere",
+            "cyberinfrastructure",
+            "earth",
+            "Environment",
+            "Geoscience",
+            "hydrosphere",
+            "NSF",
+            "solid",
+            "space",
+            "systems",
+            "visualize"
+        ]
+    },
+    {
+        "name": "CitSci.org",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10202",
+        "abstract": "We support your citizen science. At CitSci.org, you create your own projects where trained volunteers and scientists together answer local, regional, and global questions, inform natural resource decisions, advance scientific understanding, and improve environmental...",
+        "published_on": "N/A",
+        "site_url": "http://citsci.org/",
+        "cite": "(2024), \"CitSci.org,\" https://sciencegateways.org/resources/citsciorg.",
+        "tags": [
+            "academia",
+            "analyze",
+            "collected",
+            "data",
+            "manage",
+            "meta-analysis",
+            "monitor",
+            "NREL",
+            "observations",
+            "projects",
+            "research",
+            "scientific method",
+            "species",
+            "track"
+        ]
+    },
+    {
+        "name": "FieldScope",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10203",
+        "abstract": "Learn about FieldScope on this page and then select from one of the existing projects to explore or join (find a list of projects here). Projects currently in progress investigate topics such as water quality, phenology, and environmental restoration. More...",
+        "published_on": "N/A",
+        "site_url": "http://www.fieldscope.org/",
+        "cite": "(2024), \"FieldScope,\" https://sciencegateways.org/resources/fieldscope.",
+        "tags": [
+            "big cats",
+            "explore",
+            "habitats",
+            "initiative",
+            "k-12",
+            "national geographic",
+            "nonprofit",
+            "ocean",
+            "planet",
+            "pristine",
+            "project",
+            "protect",
+            "science",
+            "seas",
+            "society",
+            "wildfire",
+            "wild world"
+        ]
+    },
+    {
+        "name": "Asteroids@Home",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10192",
+        "abstract": "Asteroids@home is a research project that uses Internet-connected computers to do research in Asteroids@home. You can participate by downloading and running a free program on your computer.",
+        "published_on": "N/A",
+        "site_url": "http://asteroidsathome.net/",
+        "cite": "(2024), \"Asteroids@Home,\" https://sciencegateways.org/resources/asteroidshome.",
+        "tags": [
+            "3D",
+            "asteroids",
+            "astronomers",
+            "BOINC",
+            "geometry",
+            "lightcurve",
+            "model",
+            "period",
+            "physical",
+            "rotation",
+            "shape",
+            "solar"
+        ]
+    },
+    {
+        "name": "DataOne",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10204",
+        "abstract": "DataONE is a community driven project providing access to data across multiple member repositories, supporting enhanced search and discovery of Earth and environmental data. DataONE promotes best practices in data management through responsive educational resources...",
+        "published_on": "N/A",
+        "site_url": "https://www.dataone.org/",
+        "cite": "(2024), \"DataOne,\" https://sciencegateways.org/resources/dataone.",
+        "tags": [
+            "catalog",
+            "data",
+            "dataone",
+            "distributed",
+            "earth",
+            "Environment",
+            "network",
+            "NSF",
+            "observation"
+        ]
+    },
+    {
+        "name": "Understanding Sea Level",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9702",
+        "abstract": "Learn more about the different causes of sea level change and the scientific background of observations and projecting sea level. Find out about the history of measuring sea level and how state-of-the-art physical climate models predict sea level change into the...",
+        "published_on": "N/A",
+        "site_url": "https://sealevel.nasa.gov/",
+        "cite": "(2024), \"Understanding Sea Level,\" https://sciencegateways.org/resources/understandingsealevel.",
+        "tags": [
+            "climate",
+            "observation",
+            "sea level"
+        ]
+    },
+    {
+        "name": "OII Gateway",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9703",
+        "abstract": "The Oklahoma Innovation Institute (OII) is a not-for-profit corporation with the mission of building an innovative and entrepreneurial economy in Oklahoma with the central theme of “Research to High Impact Jobs”. The Tandy Super Computing Center manages The Tandy...",
+        "published_on": "N/A",
+        "site_url": "http://www.cilogon.org/",
+        "cite": "(2024), \"OII Gateway,\" https://sciencegateways.org/resources/oiigateway.",
+        "tags": [
+            "Airavata",
+            "Classroom",
+            "OII",
+            "Tandy Supercomputer",
+            "XSEDE"
+        ]
+    },
+    {
+        "name": "Virtual Drug Discovery Portal",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9704",
+        "abstract": "This Portal provides a graphical interface for conducting a screen for identifying small molecules that bind to your target protein.",
+        "published_on": "N/A",
+        "site_url": "https://drugdiscovery.tacc.utexas.edu/",
+        "cite": "(2024), \"Virtual Drug Discovery Portal,\" https://sciencegateways.org/resources/virtualdrugdiscoveryportal.",
+        "tags": [
+            "discovery",
+            "drog",
+            "protein"
+        ]
+    },
+    {
+        "name": "HABRI Central",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9705",
+        "abstract": "HABRI Central is an online platform for open research and collaboration into the relationships between humans and animals, specifically companion animals. HABRI Central uses a combination of library resources to facilitate the discovery, access, production, and...",
+        "published_on": "N/A",
+        "site_url": "https://slack.com/",
+        "cite": "(2024), \"HABRI Central,\" https://sciencegateways.org/resources/habricentral.",
+        "tags": [
+            "HUBzero",
+            "human-animal bond",
+            "research"
+        ]
+    },
+    {
+        "name": "MoSGrid(Molecular Simulation Grid)",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9706",
+        "abstract": "MoSGrid focuses on the configuration and provision of compute services for molecular simulations. MoSGrid shall enable extensive use of infrastructure for high-performance computing in the field of molecular simulation including annotation of the results with...",
+        "published_on": "N/A",
+        "site_url": "https://mosgrid.de/portal",
+        "cite": "(2024), \"MoSGrid(Molecular Simulation Grid),\" https://sciencegateways.org/resources/mosgridmolecularsimulationgrid.",
+        "tags": [
+            "D-Grid",
+            "molecular simulations",
+            "MoSGrid"
+        ]
+    },
+    {
+        "name": "Alveo",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9707",
+        "abstract": "Alveo is a virtual laboratory that provides human communication science researchers all over Australia with infrastructure to store data collections, analysis tools, and workflows in a common environment, allowing researchers to study speech, language, text, and...",
+        "published_on": "N/A",
+        "site_url": "http://alveo.edu.au/",
+        "cite": "(2024), \"Alveo,\" https://sciencegateways.org/resources/alveo.",
+        "tags": []
+    },
+    {
+        "name": "LegumeIP",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9708",
+        "abstract": "LegumeIP is an integrative database and bioinformatics platform for comparative genomics and transcriptomics to facilitate the study of gene function and genome evolution in legumes,to understand mechanisms that are fundamental to the legume species, especially the...",
+        "published_on": "N/A",
+        "site_url": "http://plantgrn.noble.org/LegumeIP/v2/",
+        "cite": "(2024), \"LegumeIP,\" https://sciencegateways.org/resources/legumeip.",
+        "tags": [
+            "genomics",
+            "Legume",
+            "transcriptomics"
+        ]
+    },
+    {
+        "name": "GPlatesPortal",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9709",
+        "abstract": "GPlates is desktop software for the interactive visualisation of plate-tectonics. GPlates offers a novel combination of interactive plate-tectonic reconstructions, geographic information system (GIS) functionality and raster data visualisation. GPlates enables both...",
+        "published_on": "N/A",
+        "site_url": "http://portal.gplates.org/",
+        "cite": "(2024), \"GPlatesPortal,\" https://sciencegateways.org/resources/gplatesportal.",
+        "tags": [
+            "GPlates",
+            "plate-tectonics",
+            "visualisation"
+        ]
+    },
+    {
+        "name": "General Automated Atomic Model Parameterization (GAAMP)",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9710",
+        "abstract": "The web server will automatically optimize the parameters of a force field for a desired molecule based on ab initio data. The web server will automatically optimize the parameters of a force field for a desired molecule based on ab initio data.",
+        "published_on": "N/A",
+        "site_url": "http://gaamp.lcrc.anl.gov/",
+        "cite": "(2024), \"General Automated Atomic Model Parameterization (GAAMP),\" https://sciencegateways.org/resources/generalautomatedatomicmodelparameterizationgaamp.",
+        "tags": [
+            "force field",
+            "GAAMP",
+            "molecule"
+        ]
+    },
+    {
+        "name": "EHRI",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9711",
+        "abstract": "The EHRI portal offers access to information on Holocaust-related archival material held in institutions across Europe and beyond.",
+        "published_on": "N/A",
+        "site_url": "https://portal.ehri-project.eu/",
+        "cite": "(2024), \"EHRI,\" https://sciencegateways.org/resources/ehri.",
+        "tags": [
+            "archival",
+            "EHRI",
+            "holocaust"
+        ]
+    },
+    {
+        "name": "CrowdHydrology",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9712",
+        "abstract": "The goal of CrowdHydrology is to develop innovative methods of collecting spatially-distributed hydrologic data.",
+        "published_on": "N/A",
+        "site_url": "http://www.crowdhydrology.com/",
+        "cite": "(2024), \"CrowdHydrology,\" https://sciencegateways.org/resources/crowdhydrology.",
+        "tags": [
+            "CrowdHydrology",
+            "hydrologic data",
+            "water"
+        ]
+    },
+    {
+        "name": "QCD(quantum chromodynamics)",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9713",
+        "abstract": "The first gateway developed at NERSC was QCD (quantum chromodynamics), designed to help scientists gain new insights into particle physics using QCD, the mathematical theory that describes the strong force that binds quarks together into protons, neutrons and other...",
+        "published_on": "N/A",
+        "site_url": "http://qcd.nersc.gov/",
+        "cite": "(2024), \"QCD(quantum chromodynamics),\" https://sciencegateways.org/resources/qcdquantumchromodynamics.",
+        "tags": [
+            "DeepSky",
+            "QCD",
+            "quantum chromodynamics"
+        ]
+    },
+    {
+        "name": "CLEERhub",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9714",
+        "abstract": "CLEERhub is a digital habitat with the mission to address the continued need for developing engineering education researchers by leveraging the success of past NSF-funded programs such as RREE, ISEE and CAEE and the expertise gained by various project team members....",
+        "published_on": "N/A",
+        "site_url": "https://stemedhub.org/groups/cleerhub",
+        "cite": "(2024), \"CLEERhub,\" https://sciencegateways.org/resources/cleerhub.",
+        "tags": [
+            "CLEERhub",
+            "STEM",
+            "STEM engineering",
+            "STEM research"
+        ]
+    },
+    {
+        "name": "Great Sunflower Project",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9715",
+        "abstract": "People all over the country are collecting data on pollinators in their yards, gardens, schools and parks. Together, we take counts of the number and types of pollinators visiting plants (especially sunflowers). We have been gathering information on pollinator...",
+        "published_on": "N/A",
+        "site_url": "http://www.greatsunflower.org/",
+        "cite": "(2024), \"Great Sunflower Project,\" https://sciencegateways.org/resources/greatsunflowerproject.",
+        "tags": [
+            "plant",
+            "pollinator",
+            "sunflower"
+        ]
+    },
+    {
+        "name": "Apollo",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9716",
+        "abstract": "Apollo is first instantaneous, collaborative genomic annotation editor available on the Web. It is designed to support geographically dispersed researchers, and the work of a distributed community is coordinated through automatic synchronization: all edits in one...",
+        "published_on": "N/A",
+        "site_url": "http://genomearchitect.org/",
+        "cite": "(2024), \"Apollo,\" https://sciencegateways.org/resources/apollo.",
+        "tags": [
+            "apollo",
+            "collaborative",
+            "genomic annotation"
+        ]
+    },
+    {
+        "name": "GeoGateway",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9717",
+        "abstract": "GeoGateway is a data product search and analysis gateway for scientific discovery, field use, and disaster response. GeoGateway focuses on NASA geodetic imaging products from InSAR and GPS integrated with earthquake faults datasets, seismicity, and models.",
+        "published_on": "N/A",
+        "site_url": "http://geo-gateway.org/main.html",
+        "cite": "(2024), \"GeoGateway,\" https://sciencegateways.org/resources/geogateway.",
+        "tags": [
+            "Earthquake",
+            "geodetic imaging",
+            "geogateway"
+        ]
+    },
+    {
+        "name": "InterRidge Vents Database",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9718",
+        "abstract": "InterRidge Vents Database is to provide a comprehensive list of active submarine hydrothermal vent fields for use in academic research and education.",
+        "published_on": "N/A",
+        "site_url": "https://vents-data.interridge.org/",
+        "cite": "(2024), \"InterRidge Vents Database,\" https://sciencegateways.org/resources/interridgeventsdatabase.",
+        "tags": [
+            "database",
+            "hydrothermal",
+            "InterRidge Vents"
+        ]
+    },
+    {
+        "name": "20th Century Reanalysis Project",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9719",
+        "abstract": "The goal of this project is to use a Kalman filter-based technique to produce a global tropospheric circulation dataset at four-times-daily resolution back to 1851. Previously, the only dataset available for the early 20th century consisted of error-ridden hand-drawn...",
+        "published_on": "N/A",
+        "site_url": "http://portal.nersc.gov/project/20C_Reanalysis/",
+        "cite": "(2024), \"20th Century Reanalysis Project,\" https://sciencegateways.org/resources/20thcenturyreanalysisproject.",
+        "tags": [
+            "20th century reanalysis",
+            "global tropospheric circulation dataset",
+            "netCDF 4"
+        ]
+    },
+    {
+        "name": "Decision Theater Network",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9721",
+        "abstract": "The Decision Theater Network actively engages researchers and leaders to visualize solutions to complex problems. The Network provides the latest expertise in collaborative, computing and display technologies for data visualization, modeling, and simulation. The...",
+        "published_on": "N/A",
+        "site_url": "https://dt.asu.edu/",
+        "cite": "(2024), \"Decision Theater Network,\" https://sciencegateways.org/resources/decisiontheaternetwork.",
+        "tags": [
+            "cross-disciplinary collaboration",
+            "data visualization",
+            "Decision Theater Network"
+        ]
+    },
+    {
+        "name": "MolDynGrid virtual laboratory",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9722",
+        "abstract": "MolDynGrid virtual laboratory was established in 2008 for interdisciplinary researches in computational structural biology and bioinformatics, which required a high processing power and immense storage space.The goal of the VO is to develop an effective...",
+        "published_on": "N/A",
+        "site_url": "https://moldyngrid.org/main.php",
+        "cite": "(2024), \"MolDynGrid virtual laboratory,\" https://sciencegateways.org/resources/moldyngridvirtuallaboratory.",
+        "tags": [
+            "Bioinformatics",
+            "MolDynGrid",
+            "Protein structure",
+            "Ukraine computing clusters"
+        ]
+    },
+    {
+        "name": "HydroShare",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9723",
+        "abstract": "HydroShare is an online collaboration environment for sharing data, models, and code.",
+        "published_on": "N/A",
+        "site_url": "http://www.hydroshare.org/",
+        "cite": "(2024), \"HydroShare,\" https://sciencegateways.org/resources/hydroshare.",
+        "tags": [
+            "Classroom",
+            "collaborative environment",
+            "CUAHSI",
+            "Hydrologic Science",
+            "HydroShare",
+            "water"
+        ]
+    },
+    {
+        "name": "The Arabidopsis Informational Portal (Araport)",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9724",
+        "abstract": "The Arabidopsis Information Portal is an open-access online community resource for Arabidopsis research. Araport enables biologists to navigate from the Arabidopsis thaliana Col-0 reference genome sequence to its associated annotation including gene structure, gene...",
+        "published_on": "N/A",
+        "site_url": "https://www.araport.org/",
+        "cite": "(2024), \"The Arabidopsis Informational Portal (Araport),\" https://sciencegateways.org/resources/thearabidopsisinformationalportalaraport.",
+        "tags": [
+            "Arabidopsis",
+            "Araport",
+            "genome sequence",
+            "protein"
+        ]
+    },
+    {
+        "name": "International Human Epigenome Consortium (IHEC)",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9725",
+        "abstract": "The International Human Epigenome Consortium (IHEC) is a global consortium with the primary goal of providing free access to high-resolution reference human epigenome maps for normal and disease cell types to the research community.",
+        "published_on": "N/A",
+        "site_url": "http://ihec-epigenomes.org/",
+        "cite": "(2024), \"International Human Epigenome Consortium (IHEC),\" https://sciencegateways.org/resources/internationalhumanepigenomeconsortiumihec.",
+        "tags": [
+            "epigenome",
+            "IHEC"
+        ]
+    },
+    {
+        "name": "Center for Applied Internet Data Analysis (CAIDA)",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9726",
+        "abstract": "The Center for Applied Internet Data Analysis (CAIDA) conducts network research and builds research infrastructure to support large-scale data collection, curation, and data distribution to the scientific research community. The group, located at the federally funded...",
+        "published_on": "N/A",
+        "site_url": "http://www.caida.org/home/",
+        "cite": "(2024), \"Center for Applied Internet Data Analysis (CAIDA),\" https://sciencegateways.org/resources/centerforappliedinternetdataanalysiscaida.",
+        "tags": [
+            "data analysis",
+            "internet architectures",
+            "public policy",
+            "SGCI Client",
+            "UCSanDiego"
+        ]
+    },
+    {
+        "name": "Cyclone Center",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9727",
+        "abstract": "The climatology of tropical cyclones is limited by uncertainties in the historical record. Patterns in storms imagery are best recognized by the human eye, so we need your help analyzing these storms.",
+        "published_on": "N/A",
+        "site_url": "https://www.cyclonecenter.org",
+        "cite": "(2024), \"Cyclone Center,\" https://sciencegateways.org/resources/cyclonecenter.",
+        "tags": [
+            "cyclone",
+            "storms",
+            "weather"
+        ]
+    },
+    {
+        "name": "Vortex Shedding",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9728",
+        "abstract": "The purpose of this gateway is to provide a free online educational environment for high school and college level students to learn about the physical phenomena known as Vortex Shedding and Vortex-Induced Vibration (VIV), by both reading about and running their own...",
+        "published_on": "N/A",
+        "site_url": "http://genapp.rocks/vortexshedding",
+        "cite": "(2024), \"Vortex Shedding,\" https://sciencegateways.org/resources/vortexshedding.",
+        "tags": [
+            "GenApp",
+            "Vortex-Induced Vibration"
+        ]
+    },
+    {
+        "name": "CyberSKA",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9729",
+        "abstract": "CyberSKA is a project aimed at exploring and implementing the cyberinfrastructure that will be required to address the evolving data intensive science needs of future radio telescopes such as the Square Kilometre Array.",
+        "published_on": "N/A",
+        "site_url": "https://ca.cyberska.org/",
+        "cite": "(2024), \"CyberSKA,\" https://sciencegateways.org/resources/cyberska.",
+        "tags": [
+            "CANARIE",
+            "CyberSKA",
+            "radio antennas",
+            "radio telescope"
+        ]
+    },
+    {
+        "name": "Collaboratory for Adaptation to Climate Change",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9730",
+        "abstract": "This website is a resource for research, education, and collaboration in the area of adaptation and climate change.",
+        "published_on": "N/A",
+        "site_url": "https://adapt.nd.edu/",
+        "cite": "(2024), \"Collaboratory for Adaptation to Climate Change,\" https://sciencegateways.org/resources/collaboratoryforadaptationtoclimatechange.",
+        "tags": [
+            "adaptation",
+            "climate change"
+        ]
+    },
+    {
+        "name": "CloudLaunch",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9731",
+        "abstract": "CloudLaunch is an extensible application that can be used to launch virtual appliances of your choice on a public or private cloud. A virtual appliance is a virtual machine that packages a ready-to-run application(s), eliminating the need to install and configure...",
+        "published_on": "N/A",
+        "site_url": "https://launch.usegalaxy.org/catalog",
+        "cite": "(2024), \"CloudLaunch,\" https://sciencegateways.org/resources/cloudlaunch.",
+        "tags": [
+            "cloud computing",
+            "extensible application",
+            "SGCI Client",
+            "virtual appliances"
+        ]
+    },
+    {
+        "name": "Allen Institute",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9732",
+        "abstract": "The Allen Institute is dedicated to answering some of the biggest questions in bioscience and accelerating research worldwide.",
+        "published_on": "N/A",
+        "site_url": "https://alleninstitute.org/",
+        "cite": "(2024), \"Allen Institute,\" https://sciencegateways.org/resources/alleninstitute.",
+        "tags": [
+            "Allen Institute",
+            "bioscience"
+        ]
+    },
+    {
+        "name": "PlantingScience",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9733",
+        "abstract": "PlantingScience is a free online resource to teachers and schools. The program provides volunteer scientists, resources, and activities to support innovation in teaching, learning, and mentoring. Open education resources are shared for student-centered plant...",
+        "published_on": "N/A",
+        "site_url": "https://slack.com/",
+        "cite": "(2024), \"PlantingScience,\" https://sciencegateways.org/resources/plantingscience.",
+        "tags": [
+            "biology",
+            "Education",
+            "HUBzero",
+            "k-12",
+            "mentorships",
+            "science",
+            "SGCI Client"
+        ]
+    },
+    {
+        "name": "Allen Institute for Brain Science",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9734",
+        "abstract": "The Allen Institute for Brain Science is dedicated to understanding how the human brain works in health and disease.",
+        "published_on": "N/A",
+        "site_url": "http://brain-map.org/",
+        "cite": "(2024), \"Allen Institute for Brain Science,\" https://sciencegateways.org/resources/alleninstituteforbrainscience.",
+        "tags": [
+            "Allen Institute",
+            "brain science"
+        ]
+    },
+    {
+        "name": "GnpIS(Genetic and Genomic Information System)",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9735",
+        "abstract": "The tool allows plant scientists or breeders to get associations values between traits and markers obtained in several association studies. Several filters are available to refine the query, such as the species, trait (s), or marker (s) or panel of germplasms. The...",
+        "published_on": "N/A",
+        "site_url": "https://urgi.versailles.inra.fr/gnpis/",
+        "cite": "(2024), \"GnpIS(Genetic and Genomic Information System),\" https://sciencegateways.org/resources/gnpisgeneticandgenomicinformationsystem.",
+        "tags": [
+            "genomics",
+            "plant",
+            "traits"
+        ]
+    },
+    {
+        "name": "My Compound Identification (MycompoundID)",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9736",
+        "abstract": "MycompoundID.org is a web-based resource for identification of compounds of interest based on chemical properties of a molecule, such as accurate mass and fragment ion spectral pattern generated by mass spectrometry (MS).",
+        "published_on": "N/A",
+        "site_url": "http://www.mycompoundid.org/mycompoundid_IsoMS/",
+        "cite": "(2024), \"My Compound Identification (MycompoundID),\" https://sciencegateways.org/resources/mycompoundidentificationmycompoundid.",
+        "tags": [
+            "compound",
+            "identification",
+            "MycompoundID"
+        ]
+    },
+    {
+        "name": "VDJ Server",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9737",
+        "abstract": "VDJ Server is a web portal that provides immunology researchers with powerful data analysis infrastructure. The portal offers tools for performing immune repertoire analysis with a focus on collaboration, streamlined metadata capture, and reproducibility.",
+        "published_on": "N/A",
+        "site_url": "https://vdjserver.org/",
+        "cite": "(2024), \"VDJ Server,\" https://sciencegateways.org/resources/vdjserver.",
+        "tags": [
+            "immune repertoire analysis",
+            "immunology",
+            "VDJ"
+        ]
+    },
+    {
+        "name": "PGA",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9738",
+        "abstract": "The PGA is the reference implementation portal for the Apache Airavata project. It provides simple access to several applications running on XSEDE. The PGA is the reference implementation portal for the Apache Airavata project. It provides simple access to several...",
+        "published_on": "N/A",
+        "site_url": "http://testdrive.airavata.org/",
+        "cite": "(2024), \"PGA,\" https://sciencegateways.org/resources/pga.",
+        "tags": [
+            "Airavata",
+            "Apache",
+            "PGA",
+            "XSEDE"
+        ]
+    },
+    {
+        "name": "cdmHUB",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9739",
+        "abstract": "cdmHUB is the premier online portal for composites resources, information, and networking. We host a rapidly growing collection of composites apps and commercial tools that run in the cloud and are accessible through a web browser. cdmHUB also provides...",
+        "published_on": "N/A",
+        "site_url": "https://slack.com/",
+        "cite": "(2024), \"cdmHUB,\" https://sciencegateways.org/resources/cdmhub.",
+        "tags": [
+            "analysis",
+            "CDM",
+            "composite",
+            "engineering",
+            "HUBzero",
+            "products",
+            "research"
+        ]
+    },
+    {
+        "name": "Canadian Tumour Repository Network (CTRNet)",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9740",
+        "abstract": "CTRNet operates as a not-for-profit consortium of leading provincial tumour banks and programs that furthers Canadian health research. CTRNet provides interested researchers with a streamlined process to obtain quality human tissue and human tissue products from...",
+        "published_on": "N/A",
+        "site_url": "http://www.ctrnet.ca/",
+        "cite": "(2024), \"Canadian Tumour Repository Network (CTRNet),\" https://sciencegateways.org/resources/canadiantumourrepositorynetworkctrnet.",
+        "tags": [
+            "CTRNet",
+            "Tissue",
+            "tumour"
+        ]
+    },
+    {
+        "name": "SPOT Suite Portal",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9741",
+        "abstract": "The SPOT Suite project is funded under an LBNL LDRD to research and develop a suite of tools to provide ALS scientists access to best-of-breed data management, data analysis, and simulation tools. When complete, the portal will allow ALS scientists to manage and...",
+        "published_on": "N/A",
+        "site_url": "http://spot.nersc.gov/",
+        "cite": "(2024), \"SPOT Suite Portal,\" https://sciencegateways.org/resources/spotsuiteportal.",
+        "tags": [
+            "ALS Data",
+            "Light-Source Data",
+            "SPOT"
+        ]
+    },
+    {
+        "name": "DDBJ Read Annotation Pipeline",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9742",
+        "abstract": "DDBJ Read Annotation Pipeline is a cloud-computing based analytical platform for next-generation sequencing data.",
+        "published_on": "N/A",
+        "site_url": "https://p.ddbj.nig.ac.jp/pipeline/Login.do",
+        "cite": "(2024), \"DDBJ Read Annotation Pipeline,\" https://sciencegateways.org/resources/ddbjreadannotationpipeline.",
+        "tags": [
+            "analytical platform",
+            "DDBJ",
+            "DNApod workflow"
+        ]
+    },
+    {
+        "name": "Col*Fusion (Collaborative Data Fusion)",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9743",
+        "abstract": "Col*Fusion (Collaborative Data Fusion) is an advanced infrastructure for systematic accumulation, integration and utilization of historical data. It aims to support large-scale interdisciplinary research, where a comprehensive picture of the subject requires large...",
+        "published_on": "N/A",
+        "site_url": "http://colfusion.exp.sis.pitt.edu/colfusion/",
+        "cite": "(2024), \"Col*Fusion (Collaborative Data Fusion),\" https://sciencegateways.org/resources/colfusioncollaborativedatafusion.",
+        "tags": [
+            "collaborative",
+            "fusion",
+            "historical"
+        ]
+    },
+    {
+        "name": "protocols.io",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9744",
+        "abstract": "As scientists, we are constantly re-discovering knowledge that others have not had the time to publish and improving existing methods without the ability to share the improvements. Our mission is to change this with a free, up-to-date, crowd-sourced protocol...",
+        "published_on": "N/A",
+        "site_url": "https://www.protocols.io/",
+        "cite": "(2024), \"protocols.io,\" https://sciencegateways.org/resources/protocolsio.",
+        "tags": [
+            "crowdsource",
+            "protocols"
+        ]
+    },
+    {
+        "name": "Daya Bay",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9746",
+        "abstract": "Some new, and unprecedentedly precise, measurements from the multinational Daya Bay Neutrino Experiment are revealing how electron antineutrinos “oscillate” into different flavors as they travel. This new finding from Daya Bay opens a gateway to a new understanding...",
+        "published_on": "N/A",
+        "site_url": "https://portal-auth.nersc.gov/dayabay/odm",
+        "cite": "(2024), \"Daya Bay,\" https://sciencegateways.org/resources/dayabay.",
+        "tags": [
+            "Daya Bay",
+            "Neutrinos",
+            "stars"
+        ]
+    },
+    {
+        "name": "KBase: The U.S. Department of Energy Systems Biology Knowledgebase",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9747",
+        "abstract": "The Department of Energy Systems Biology Knowledgebase (KBase) is a software and data platform designed to meet the grand challenge of systems biology: predicting and designing biological function. KBase integrates data and tools in a unified graphical interface so...",
+        "published_on": "N/A",
+        "site_url": "https://kbase.us/",
+        "cite": "(2024), \"KBase: The U.S. Department of Energy Systems Biology Knowledgebase,\" https://sciencegateways.org/resources/kbasetheusdepartmentofenergysystemsbiologyknowledgebase.",
+        "tags": [
+            "kbase",
+            "Knowledgebase",
+            "systems biology"
+        ]
+    },
+    {
+        "name": "European Severe Storms Laboratory (ESSL)",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9748",
+        "abstract": "ESSL performs severe weather research and supports the research community by operating the European Severe Weather Database and (co-)organizing the European Conferences on Severe Storms. With the ESSL Testbed, courses and workshops, it provides a facility to evaluate...",
+        "published_on": "N/A",
+        "site_url": "https://www.essl.org/cms/",
+        "cite": "(2024), \"European Severe Storms Laboratory (ESSL),\" https://sciencegateways.org/resources/europeanseverestormslaboratoryessl.",
+        "tags": [
+            "European Severe Weather",
+            "storms",
+            "weather"
+        ]
+    },
+    {
+        "name": "PeptideAtlas",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9749",
+        "abstract": "PeptideAtlas is a multi-organism, publicly accessible compendium of peptides identified in a large set of tandem mass spectrometry proteomics experiments. Mass spectrometer output files are collected for human, mouse, yeast, and several other organisms, and searched...",
+        "published_on": "N/A",
+        "site_url": "http://www.peptideatlas.org/",
+        "cite": "(2024), \"PeptideAtlas,\" https://sciencegateways.org/resources/peptideatlas.",
+        "tags": [
+            "PeptideAtlas",
+            "peptides",
+            "protein sequences"
+        ]
+    },
+    {
+        "name": "Omics",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9750",
+        "abstract": "The RDS Omics project is an RDS-funded flagship project to provide cloud-based data services and tools for Australian Life Science Researchers to combine, analyse and interpret genomic (DNA), transcriptomic (RNA), proteomic (proteins) and metabolomic (small...",
+        "published_on": "N/A",
+        "site_url": "http://omics.data.edu.au/",
+        "cite": "(2024), \"Omics,\" https://sciencegateways.org/resources/omics.",
+        "tags": [
+            "genomics",
+            "omics",
+            "protein"
+        ]
+    },
+    {
+        "name": "Coral Watch",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9751",
+        "abstract": "CoralWatch is a citizen science project based at The University of Queensland, in Brisbane, Australia. CoralWatch helps non-scientists around the globe understand and support effective reef management by using engaging tools that provide people with accessible...",
+        "published_on": "N/A",
+        "site_url": "http://www.coralwatch.org/",
+        "cite": "(2024), \"Coral Watch,\" https://sciencegateways.org/resources/coralwatch.",
+        "tags": [
+            "citizen",
+            "coral",
+            "reef"
+        ]
+    },
+    {
+        "name": "WorldMap",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9752",
+        "abstract": "Harvard WorldMap is an online, open source mapping platform developed to lower barriers for scholars who wish to explore, visualize, edit, and publish geospatial information. The system attempts to address the gap between desktop GIS which is generally light on...",
+        "published_on": "N/A",
+        "site_url": "http://worldmap.harvard.edu/",
+        "cite": "(2024), \"WorldMap,\" https://sciencegateways.org/resources/worldmap.",
+        "tags": [
+            "cartographic tools",
+            "spatio-temporal",
+            "worldmap"
+        ]
+    },
+    {
+        "name": "PICKSC gateway",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9753",
+        "abstract": "The mission and major goal of PICKSC is to support an international community of PIC and plasma kinetic software developers, users, and educators, and to increase the use of this software for accelerating the rate of scientific discovery. To support this mission, the...",
+        "published_on": "N/A",
+        "site_url": "https://picksc.idre.ucla.edu/",
+        "cite": "(2024), \"PICKSC gateway,\" https://sciencegateways.org/resources/pickscgateway.",
+        "tags": [
+            "kinetic",
+            "physics",
+            "PIC",
+            "PICKSC",
+            "plasma"
+        ]
+    },
+    {
+        "name": "OMICTools",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9754",
+        "abstract": "OMICtools is the first community search platform offering an intuitive search experience to retrieve biological data analysis tools. Connect with users to share and discuss tools. Bridge the gap between life science and computational biology.",
+        "published_on": "N/A",
+        "site_url": "https://omictools.com/",
+        "cite": "(2024), \"OMICTools,\" https://sciencegateways.org/resources/omictools.",
+        "tags": [
+            "genomics",
+            "metabolomics",
+            "OMICTools",
+            "proteomics",
+            "transcriptomics"
+        ]
+    },
+    {
+        "name": "WaterHUB - Platform for water education, research, data access, partnership and collaboration",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9755",
+        "abstract": "WaterHUB is an open platform for connecting hydrologists through sharing of hydrologic information, data, models, and simulation tools, connecting researchers and students to high-performance computation and data resources, and connecting science and people through...",
+        "published_on": "N/A",
+        "site_url": "http://water-hub.org/",
+        "cite": "(2024), \"WaterHUB - Platform for water education, research, data access, partnership and collaboration,\" https://sciencegateways.org/resources/waterhub-platformforwatereducationresearchdataaccesspartnershipandcollaboration.",
+        "tags": [
+            "ACCESS-CI",
+            "hydrologist",
+            "SWAT model",
+            "water",
+            "WaterHUB"
+        ]
+    },
+    {
+        "name": "Research and Education Activities in Laboratory Mechatronics (REALM)",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9756",
+        "abstract": "The aim of the REALM project is to create generic network-driven services for access to and use of experimental devices for research and education. The short-term target is an experimental mechatronics (robotic components) facility that is available to engineering...",
+        "published_on": "N/A",
+        "site_url": "http://realmproject.net/",
+        "cite": "(2024), \"Research and Education Activities in Laboratory Mechatronics (REALM),\" https://sciencegateways.org/resources/researchandeducationactivitiesinlaboratorymechatronicsrealm.",
+        "tags": [
+            "CANARIE",
+            "mechatronics",
+            "REALM"
+        ]
+    },
+    {
+        "name": "project noah",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/9757",
+        "abstract": "Project Noah is a tool to explore and document wildlife and a platform to harness the power of citizen scientists everywhere.",
+        "published_on": "N/A",
+        "site_url": "http://www.projectnoah.org/",
+        "cite": "(2024), \"project noah,\" https://sciencegateways.org/resources/projectnoah.",
+        "tags": [
+            "citizen",
+            "nature",
+            "Wildlife"
+        ]
+    },
