@@ -1,0 +1,398 @@
+[
+    {
+        "name": "Custos Admin Gateway",
+        "category": "26 Jun 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10214",
+        "abstract": "Custos provides security services, including identity management, authorization management, and resource credential management, for science gateways",
+        "published_on": "N/A",
+        "site_url": "https://portal.usecustos.org/",
+        "cite": "(2024), \"Custos Admin Gateway,\" https://sciencegateways.org/resources/10214.",
+        "tags": [
+            "ACCESS-CI"
+        ]
+    },
+    {
+        "name": "EDGE-Bioinformatics-Gateway",
+        "category": "26 Jun 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10216",
+        "abstract": "The EDGE Bioinformatics Science Gateway was developed to help biologists, educators and public-health professionals process Next Generation Sequencing data (in the form of raw FASTQ files), even if they have little to no bioinformatics expertise. EDGE is a highly integrated and interactive...",
+        "published_on": "N/A",
+        "site_url": "https://edgebioinformatics.org/",
+        "cite": "(2024), \"EDGE-Bioinformatics-Gateway,\" https://sciencegateways.org/resources/10216.",
+        "tags": [
+            "ACCESS-CI"
+        ]
+    },
+    {
+        "name": "CyberWater",
+        "category": "26 Jun 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10215",
+        "abstract": "To tackle fundamental scientific questions regarding health, resilience, and sustainability of water resources that encompass hydrological, biological, environmental, atmospheric, and other geosciences that define the Earth system, researchers need to be able to easily access diverse data...",
+        "published_on": "N/A",
+        "site_url": "https://cyberwater.scigap.org/",
+        "cite": "(2024), \"CyberWater,\" https://sciencegateways.org/resources/10215.",
+        "tags": [
+            "ACCESS-CI"
+        ]
+    },
+    {
+        "name": "Biolearns",
+        "category": "26 Jun 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10212",
+        "abstract": "To further facilitate the general needs of online real-time co-expression analysis, we develop biolearns, a python-based co-expression network analysis web tool.",
+        "published_on": "N/A",
+        "site_url": "https://biolearns.medicine.iu.edu/",
+        "cite": "(2024), \"Biolearns,\" https://sciencegateways.org/resources/10212.",
+        "tags": [
+            "ACCESS-CI"
+        ]
+    },
+    {
+        "name": "Future Water Indiana",
+        "category": "26 Jun 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10217",
+        "abstract": "This project is part of Indiana University's Grand Challenges Prepared for Environmental Change project. For this project, we are building a computer-based watershed model of the Wabash River Basin. This model will be used to investigate climate change impacts on water resources in Indiana....",
+        "published_on": "N/A",
+        "site_url": "https://gateway.futurewater.indiana.edu/",
+        "cite": "(2024), \"Future Water Indiana,\" https://sciencegateways.org/resources/10217.",
+        "tags": [
+            "ACCESS-CI"
+        ]
+    },
+    {
+        "name": "GEO-ABM for Analysis of COVID-19 Transmission",
+        "category": "26 Jun 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10218",
+        "abstract": "This gateway helps schools and school districts understand the risks of COVID-19 transmission in schools and the potential effects of non-pharmaceutical interventions using a spatiallly-explicit agent-based model",
+        "published_on": "N/A",
+        "site_url": "https://geoact.sdsc.edu/",
+        "cite": "(2024), \"GEO-ABM for Analysis of COVID-19 Transmission,\" https://sciencegateways.org/resources/10218.",
+        "tags": [
+            "ACCESS-CI"
+        ]
+    },
+    {
+        "name": "Global Floods Monitoring",
+        "category": "26 Jun 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10219",
+        "abstract": "\"We are researchers from the approved project ASC190069: Deep Convolutional Neural Network based Learning of Disaster Induced Changes in Remote Sensing Images. With our ongoing progress and success in using the Bridges2-GPU-AI infrastructure, we are planning to develop a science gateway...",
+        "published_on": "N/A",
+        "site_url": "https://global-floods-monitoring.scigap.org/",
+        "cite": "(2024), \"Global Floods Monitoring,\" https://sciencegateways.org/resources/10219.",
+        "tags": [
+            "ACCESS-CI"
+        ]
+    },
+    {
+        "name": "High-Resolution Modeling of Hydrodynamic Experiments with UltraScan",
+        "category": "26 Jun 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10220",
+        "abstract": "This XSEDE ACCESS portal provides access to the high performance computing back-end of UltraScan (https://www.ultrascan.aucsolutions.comuthscsa.edu) which is used to analyze analytical ultracentrifugation experiments by high-resolution methods. Users can request an individual database instance...",
+        "published_on": "N/A",
+        "site_url": "https://uslims.aucsolutions.com/",
+        "cite": "(2024), \"High-Resolution Modeling of Hydrodynamic Experiments with UltraScan,\" https://sciencegateways.org/resources/10220.",
+        "tags": [
+            "ACCESS-CI"
+        ]
+    },
+    {
+        "name": "Metaproteomics Gateway",
+        "category": "26 Jun 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10221",
+        "abstract": "Galaxy-P platform offers an open source, bioinformatics platform for disseminating metaproteomics software and workflows. This was a result of metaproteomics contribution-fest (z.umn.edu/mphack2016) which generated easily accessible and documented metaproteomic software tools and workflows. The...",
+        "published_on": "N/A",
+        "site_url": "https://z.umn.edu/metaproteomicsgateway",
+        "cite": "(2024), \"Metaproteomics Gateway,\" https://sciencegateways.org/resources/10221.",
+        "tags": [
+            "ACCESS-CI"
+        ]
+    },
+    {
+        "name": "Microbial Genomes Atlas",
+        "category": "26 Jun 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10222",
+        "abstract": "The Microbial Genomes Atlas –MiGA– processes Prokaryotic genomes (draft or complete), applies different quality checks, and identifies the closest relatives in public databases using a combination of genome-wide identity metrics such as the average nucleotide identity (ANI) and the...",
+        "published_on": "N/A",
+        "site_url": "https://clades.microbial-genomes.org/",
+        "cite": "(2024), \"Microbial Genomes Atlas,\" https://sciencegateways.org/resources/10222.",
+        "tags": [
+            "ACCESS-CI"
+        ]
+    },
+    {
+        "name": "Open Knowledge of Interatomic Models",
+        "category": "26 Jun 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10223",
+        "abstract": "The Open Knowledgebase of Interatomic Models (OpenKIM) is an interatomic potential repository and an online framework for making molecular simulations reliable, reproducible, and portable. Computer implementations of interatomic models are archived in OpenKIM, verified for coding integrity, and...",
+        "published_on": "N/A",
+        "site_url": "https://openkim.org/",
+        "cite": "(2024), \"Open Knowledge of Interatomic Models,\" https://sciencegateways.org/resources/10223.",
+        "tags": [
+            "ACCESS-CI"
+        ]
+    },
+    {
+        "name": "Plasma Science Virtual Laboratory",
+        "category": "26 Jun 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10224",
+        "abstract": "The Plasma Science Virtual Laboratory (VLab) is the gateway that drives the Gkeyll workflow executions on a wide range of HPC systems. The VLab is deployed with hosted gateway platform SciGaP, using Apache Airavata middleware as the underlying middleware that provides gateways. Gkeyll is a...",
+        "published_on": "N/A",
+        "site_url": "https://vlab.plasmascience.scigap.org/",
+        "cite": "(2024), \"Plasma Science Virtual Laboratory,\" https://sciencegateways.org/resources/10224.",
+        "tags": [
+            "ACCESS-CI"
+        ]
+    },
+    {
+        "name": "Proteogenomics Gateway",
+        "category": "26 Jun 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10225",
+        "abstract": "This page provides links to instructional materials describing how to access and use the proteogenomic workflows described in the manuscript text. Please access the links indicated below for the following materials: Training on usegalaxyp.org How to access and use the usegalaxyp.org training...",
+        "published_on": "N/A",
+        "site_url": "http://z.umn.edu/proteogenomicsgateway",
+        "cite": "(2024), \"Proteogenomics Gateway,\" https://sciencegateways.org/resources/10225.",
+        "tags": [
+            "ACCESS-CI"
+        ]
+    },
+    {
+        "name": "Providing a Neuroscience Gateway",
+        "category": "26 Jun 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10226",
+        "abstract": "The Neuroscience Gateway (NSG) is an open project funded by the National Science Foundation and developed by researchers from UCSD and Yale University. The NSG (www.nsgportal.org) is a software infrastructure that allows computational neuroscience researchers and students to easily utilize HPC...",
+        "published_on": "N/A",
+        "site_url": "http://www.nsgportal.org/",
+        "cite": "(2024), \"Providing a Neuroscience Gateway,\" https://sciencegateways.org/resources/10226.",
+        "tags": [
+            "ACCESS-CI"
+        ]
+    },
+    {
+        "name": "Searching the SRA",
+        "category": "26 Jun 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10227",
+        "abstract": "Searching the SRA provides a gateway for researchers to explore sequence data from publicly available metagenomics projects in the Sequence Read Archive, You can upload a DNA or protein query sequence, and quickly scan for the presence of that sequence in over 100,000 freely available datasets...",
+        "published_on": "N/A",
+        "site_url": "https://www.searchsra.org/",
+        "cite": "(2024), \"Searching the SRA,\" https://sciencegateways.org/resources/10227.",
+        "tags": [
+            "ACCESS-CI"
+        ]
+    },
+    {
+        "name": "Snow Vision",
+        "category": "26 Jun 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10228",
+        "abstract": "Our team of archaeologists, computer scientists, and digital humanists unites outstanding problems in art and archaeology and cutting-edge computer-vision research – an example of digital humanities par excellence – to automate the matching of stamped pottery sherds in order to...",
+        "published_on": "N/A",
+        "site_url": "http://worldengraved.org/index",
+        "cite": "(2024), \"Snow Vision,\" https://sciencegateways.org/resources/10228.",
+        "tags": [
+            "ACCESS-CI"
+        ]
+    },
+    {
+        "name": "Visualizing Statistical Concepts: A collection of tools for emerging music education researchers",
+        "category": "26 Jun 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10229",
+        "abstract": "\"I created a virtual machine with the statistical program R installed. R is a free, open-source statistical computing and graphics language and is a flexible platform for organizing, visualizing, and analyzing data. The web applications accessible from the page were built with an...",
+        "published_on": "N/A",
+        "site_url": "https://petemiksza.com/visualizing-statistical-concepts/",
+        "cite": "(2024), \"Visualizing Statistical Concepts: A collection of tools for emerging music education researchers,\" https://sciencegateways.org/resources/10229.",
+        "tags": [
+            "ACCESS-CI"
+        ]
+    },
+    {
+        "name": "Apache Airvata Testdrive Gateway",
+        "category": "24 Jun 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10209",
+        "abstract": "The Airavata Django Portal is a web interface to the Apache Airavata API implemented using the Django web framework. The intention is that the Airavata Django Portal can be used as is for a full featured web based science gateway but it can also be customized through various plugins...",
+        "published_on": "N/A",
+        "site_url": "https://testdrive.airavata.org/",
+        "cite": "(2024), \"Apache Airvata Testdrive Gateway,\" https://sciencegateways.org/resources/10209.",
+        "tags": [
+            "ACCESS-CI"
+        ]
+    },
+    {
+        "name": "MultiPLX",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10006",
+        "abstract": "About the program: MultiPLX 2.1 is a tool for analyzing PCR primer compatibility and automatically finding optimal multiplexing (grouping) solution. It uses state-of-the-art nearest neighbour DNA binding thermodynamics to estimate possible unwanted...",
+        "published_on": "N/A",
+        "site_url": "http://bioinfo.ut.ee/multiplx/",
+        "cite": "(2024), \"MultiPLX,\" https://sciencegateways.org/resources/multiplx.",
+        "tags": [
+            "MultiPLX",
+            "primers",
+            "softwareEntry"
+        ]
+    },
+    {
+        "name": "DoD HPC portal",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10007",
+        "abstract": "US Department of Defense (DoD) High Performance Computing Modernization Program (HPCMP) provides a Web-based software-as-a-service (SaaS) access approach known as the HPC (High Performance Computing) Portal. The Portal supports the life cycle of design and...",
+        "published_on": "N/A",
+        "site_url": "https://centers.hpc.mil/portal/",
+        "cite": "(2024), \"DoD HPC portal,\" https://sciencegateways.org/resources/dodhpcportal.",
+        "tags": [
+            "DevOps",
+            "High Performance Computing",
+            "HPC",
+            "SaaS"
+        ]
+    },
+    {
+        "name": "Enzyme Portal",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10008",
+        "abstract": "The Enzyme Portal is for those interested in the biology of enzymes and proteins with enzymatic activity. It integrates publicly available information about enzymes, such as small-molecule chemistry, biochemical pathways and drug compounds.",
+        "published_on": "N/A",
+        "site_url": "https://www.ebi.ac.uk/enzymeportal/",
+        "cite": "(2024), \"Enzyme Portal,\" https://sciencegateways.org/resources/enzymeportal.",
+        "tags": [
+            "ELIXIR",
+            "Enzyme",
+            "pathways"
+        ]
+    },
+    {
+        "name": "Worldwide PDB (wwPDB)",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10009",
+        "abstract": "Since 1971, the Protein Data Bank archive (PDB) has served as the single repository of information about the 3D structures of proteins, nucleic acids, and complex assemblies. The Worldwide PDB (wwPDB) organization manages the PDB archive and ensures that the PDB is...",
+        "published_on": "N/A",
+        "site_url": "https://www.wwpdb.org/",
+        "cite": "(2024), \"Worldwide PDB (wwPDB),\" https://sciencegateways.org/resources/worldwidepdbwwpdb.",
+        "tags": [
+            "biocuration service",
+            "macromolecules",
+            "structural biology data",
+            "wwPDB"
+        ]
+    },
+    {
+        "name": "MapStory",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10010",
+        "abstract": "MapStory is an online social cartographic platform that empowers a community of experts to crowd-source and peer review data within a geospatial and temporal framework. Mapstory uses GeoNode, a spatial data infrastructure solution that extends the OpenGeo...",
+        "published_on": "N/A",
+        "site_url": "https://mapstory.org",
+        "cite": "(2024), \"MapStory,\" https://sciencegateways.org/resources/mapstory.",
+        "tags": [
+            "Atlas",
+            "Geospatial and Temporal Visualization",
+            "MapStory",
+            "social cartographic platform"
+        ]
+    },
+    {
+        "name": "HOGENOM : Database of Complete Genome Homologous Genes Families",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10011",
+        "abstract": "HOGENOM is a database of homologous genes clusters in complete genome (bacteria, archeaea and eukarya). It allows to select sets of homologous genes among species, and to visualize multiple alignments and phylogenetic trees.",
+        "published_on": "N/A",
+        "site_url": "http://doua.prabi.fr/databases/hogenom/home.php?contents=query",
+        "cite": "(2024), \"HOGENOM : Database of Complete Genome Homologous Genes Families,\" https://sciencegateways.org/resources/hogenomdatabaseofcompletegenomehomologousgenesfamilies.",
+        "tags": []
+    },
+    {
+        "name": "NOMAD Repository",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10012",
+        "abstract": "The Repository developed and maintained by NOMAD is now the largest repository for computational materials science worldwide, containing the input and output files from several million high-quality calculations. The volume of files made available through the NOMAD...",
+        "published_on": "N/A",
+        "site_url": "https://nomad-repository.eu",
+        "cite": "(2024), \"NOMAD Repository,\" https://sciencegateways.org/resources/nomadrepository.",
+        "tags": [
+            "materials data repository",
+            "NOMAD",
+            "scientific data"
+        ]
+    },
+    {
+        "name": "INCA: Monitoring Tool",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10013",
+        "abstract": "Determining whether a Grid is up in the face of complex Grid software deployments can be difficult and depends on the types of applications and users that utilize it. By detailing a set of software, services, and features that should be available on a Grid in a...",
+        "published_on": "N/A",
+        "site_url": "http://inca.sdsc.edu/",
+        "cite": "(2024), \"INCA: Monitoring Tool,\" https://sciencegateways.org/resources/incamonitoringtool.",
+        "tags": [
+            "INCA",
+            "Inca GUI tool",
+            "Inca reporters",
+            "SGCI Affiliate",
+            "softwareEntry"
+        ]
+    },
+    {
+        "name": "REDCap (Research Electronic Data Capture)",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10014",
+        "abstract": "REDCap (Research Electronic Data Capture) is a secure web application for building and managing online surveys and databases. While REDCap can be used to collect virtually any type of data (including 21 CFR Part 11, FISMA, and HIPAA-compliant environments), it is...",
+        "published_on": "N/A",
+        "site_url": "https://www.project-redcap.org",
+        "cite": "(2024), \"REDCap (Research Electronic Data Capture),\" https://sciencegateways.org/resources/redcapresearchelectronicdatacapture.",
+        "tags": [
+            "clinical researchers",
+            "data collection",
+            "HIPAA",
+            "REDCap"
+        ]
+    },
+    {
+        "name": "European Variation Archive",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10015",
+        "abstract": "The European Variation Archive is an open-access database of all types of genetic variation data from all species.",
+        "published_on": "N/A",
+        "site_url": "https://www.ebi.ac.uk/eva/",
+        "cite": "(2024), \"European Variation Archive,\" https://sciencegateways.org/resources/europeanvariationarchive.",
+        "tags": []
+    },
+    {
+        "name": "iMarine",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10016",
+        "abstract": "This gateway is an access point to a number of Virtual Research Environments deployed and operated in the context of the past iMarine EU FP7 project to support the Ecosystem Approach to fisheries management and conservation of marine living resources. It empowers...",
+        "published_on": "N/A",
+        "site_url": "http://www.i-marine.eu/",
+        "cite": "(2024), \"iMarine,\" https://sciencegateways.org/resources/imarine.",
+        "tags": [
+            "D4science",
+            "data catalogue",
+            "fisheries",
+            "infrastructure"
+        ]
+    },
+    {
+        "name": "Pegasus",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10017",
+        "abstract": "The Pegasus project encompasses a set of technologies that help workflow-based applications execute in a number of different environments including desktops, campus clusters, grids, and clouds. Pegasus bridges the scientific domain and the execution environment by...",
+        "published_on": "N/A",
+        "site_url": "https://pegasus.isi.edu",
+        "cite": "(2024), \"Pegasus,\" https://sciencegateways.org/resources/pegasus.",
+        "tags": [
+            "Condor",
+            "directed acyclic graph",
+            "Pegasus",
+            "Scientific workflow",
+            "SGCI Affiliate",
+            "softwareEntry"
+        ]
+    },
+    {
+        "name": "HAMAP",
+        "category": "09 May 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10018",
+        "abstract": "HAMAP is a system for the classification and functional annotation of protein sequences. It consists of a collection of expert curated family profiles for protein classification and associated rules for protein annotation.",
+        "published_on": "N/A",
+        "site_url": "https://hamap.expasy.org/",
+        "cite": "(2024), \"HAMAP,\" https://sciencegateways.org/resources/hamap.",
+        "tags": []
+    }
+]

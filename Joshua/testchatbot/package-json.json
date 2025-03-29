@@ -1,0 +1,22 @@
+{
+    "name": "science-gateway-chatbot",
+    "version": "1.0.0",
+    "description": "Science Gateway Research Assistant",
+    "main": "src/App.js",
+    "scripts": {
+        "start": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "dependencies": {
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-react": "^4.0.0",
+        "vite": "^4.3.0",
+        "tailwindcss": "^3.3.2",
+        "postcss": "^8.4.23",
+        "autoprefixer": "^10.4.14"
+    }
+}

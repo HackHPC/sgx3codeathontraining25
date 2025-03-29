@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Custos Admin Gateway",
+        "category": "26 Jun 2024|Science Gateways",
+        "site": "https://sciencegateways.org/resources/10214",
+        "abstract": "Custos provides security services, including identity management, authorization management, and resource credential management, for science gateways",
+        "published_on": "N/A",
+        "site_url": "https://portal.usecustos.org/",
+        "cite": "(2024), \"Custos Admin Gateway,\" https://sciencegateways.org/resources/10214.",
+        "tags": ["ACCESS-CI"]
+    }
+    // ... (rest of the data from the original JSON)
+]
